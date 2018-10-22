@@ -1,10 +1,10 @@
- [Anaconda](https://www.anaconda.com/download/) is a distribution of Python. It provides a Python programming environment, the Jupyter notebook environment, and the [conda](conda.md) package management system. 
+ [Anaconda](https://www.anaconda.com/download/) is a distribution of Python. It provides a Python programming environment, the Jupyter notebook environment, and the [conda](conda.md) package management system. This guide was written for Python 3.6, but you should download the latest Python (currently __3.7__).
 
-## Download Python 3.6: 
+## Download Python 3.+: 
 
 1. Download Anaconda at:  https://www.anaconda.com/download/ 
  
- 2. *Click* on the Python 3.6 button:
+ 2. *Click* on the Python 3.+ button:
 
 ![Anaconda download webpage with 3.6 button highlighted](../images/windows/anaconda/anaconda01.png)
 
