@@ -58,6 +58,7 @@ https://git-scm.com/download/win
 11. On the 'configuring the terminal emulator to use with Git Bash' window, choose the "Use Windows default console window" option:
 
 ![two radio buttons: 1) Use MinTTY, 2) use Windows default console window](../images/windows/git/git10.png)
+Note: Do not choose "Use MinTTY (the default terminal of MSYS2)" as that MinTTY wil break Python. 
 
 12. Configure the extra options (the defaults are fine). *Click* `Next`:
 
