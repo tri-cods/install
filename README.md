@@ -1,6 +1,9 @@
 # Installation
 
+The following guides will help you install all the software, Python packages, and management systems that you will need to follow the DHRI Curriculum workshops.
+
 Software Installation
+- [Firefox](https://www.mozilla.org/en-US/firefox/)
 - [git](sections/git.md)
 - [QGIS](sections/qgis.md)
 - [Visual Studio Code](sections/vscode.md)
@@ -13,14 +16,11 @@ Python Packages
 
 Guides
 - [Conda Package Management](sections/conda.md)
-- [Using Jupyter Notebook](sections/jupyter.md)
-
-External
-- [Firefox](https://www.mozilla.org/en-US/firefox/)
+- [Jupyter Notebook](sections/jupyter.md)
 
 -----
 
-These install guides are based on work by: Hannah Aizenman, Michelle McSweeney, and Rachel Rakov
+These install guides are based on work by: Hannah Aizenman, Michelle McSweeney, and Rachel Rakov.
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
