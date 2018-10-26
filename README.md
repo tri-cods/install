@@ -1,22 +1,25 @@
 # Installation
 
-The following guides will help you install all the software, Python packages, and management systems that you will need to follow the DHRI Curriculum workshops.
+The following guides will help you install all the software that you will need to follow the DHRI sessions in this curriculum.
 
 ### Software Installations
-- [Firefox](https://www.mozilla.org/en-US/firefox/)
-- [git](sections/git.md)
-- [QGIS](sections/qgis.md)
-- [Visual Studio Code](sections/vscode.md)
+
+[Firefox](https://www.mozilla.org/en-US/firefox/)  
+[git](sections/git.md)  
+[QGIS](sections/qgis.md)  
+[Visual Studio Code](sections/vscode.md)  
 
 ### Python Packages
-- [Natural Language Tool Kit (NLTK)](sections/nltk.md)
-- [Pandas](sections/pandas.md)
-- [Scikit-Learn](sections/sklearn.md)
-- [Tweepy](sections/tweepy.md)
+
+[Natural Language Tool Kit (NLTK)](sections/nltk.md)  
+[Pandas](sections/pandas.md)  
+[Scikit-Learn](sections/sklearn.md)  
+[Tweepy](sections/tweepy.md)  
 
 ### Guides
-- [Conda Package Management](sections/conda.md)
-- [Jupyter Notebook](sections/jupyter.md)
+
+[Conda Package Management](sections/conda.md)  
+[Jupyter Notebook](sections/jupyter.md)  
 
 -----
 
