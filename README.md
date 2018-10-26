@@ -20,7 +20,8 @@ The following guides will help you install all the software, Python packages, an
 
 -----
 
-These install guides are based on work by: Hannah Aizenman, Michelle McSweeney, and Rachel Rakov.
+Session Leader: Hannah Aizenman  
+These install guides are based on work by: Hannah Aizenman, Michelle McSweeney, and Rachel Rakov
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
