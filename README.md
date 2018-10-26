@@ -2,7 +2,7 @@
 
 The following guides will help you install all the software, Python packages, and management systems that you will need to follow the DHRI Curriculum workshops.
 
-### Software Installation
+### Software Installations
 - [Firefox](https://www.mozilla.org/en-US/firefox/)
 - [git](sections/git.md)
 - [QGIS](sections/qgis.md)
