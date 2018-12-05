@@ -1,11 +1,5 @@
  [Anaconda](https://www.anaconda.com/download/) is a distribution of Python. It provides a Python programming environment, the Jupyter notebook environment, and the [conda](conda.md) package management system. 
 
-* [Installation Windows](#installation-windows)
-* [Installation macOS](#installation-macos)
-
-# Installation Windows 
-
-
 ## Download Python 3.+: 
 
 1. Download Anaconda at:  https://www.anaconda.com/download/ 
@@ -38,7 +32,7 @@
 
 ![text box with path for default Anaconda install and browse button ](../images/windows/anaconda/anaconda05.png)
 
-6. On the Advanced Installation Options page, select **both check boxes**: "Add Anaconda to my PATH environment variable" and "Register Anaconda as my default Python". Then *click* `Next`: 
+6. On the Advanced Installation Options page, *check* **both boxes**, "Add Anaconda to my PATH environment variable" and "Register Anaconda as my default Python". Then *click* `Next`: 
 
 ![advanced installation options window. Has two check boxes: Add anaconda to PATH environment variables, and `Register Anaconda as my default Python`](../images/windows/anaconda/anaconda06.png)
 
@@ -58,81 +52,18 @@
 
 ## Test
 
-Open a [windows](windows_terminal.md) and type `python`. The terminal should print something like:
-
-    ```python
-    Python 3.6.5 |Anaconda, Inc.| (default, Mar 29 2018, 13:32:41) [MSC v.1900 64 bit (AMD64)] on win32
-    Type "help", "copyright", "credits" or "license" for more information.
-    >>> 
-    ```
-
-Type `exit()` to leave python
-
-## References ##
-
-* [Anaconda Cheet Sheet](http://conda.pydata.org/docs/using/cheatsheet.html)
-
-* [Jupyter Reference Sheet](https://damontallen.github.io/IPython-quick-ref-sheets/)
-
-# Installation macOS
-
-## Download Python 3.+: 
-
-1. Download Anaconda at:  https://www.anaconda.com/download/ 
- 
-2. *Click* on the Python 3.+ button:
-
-![Anaconda download webpage with 3.6 button highlighted](../images/osx/anaconda/anaconda00.png)
-
-3. You can ignore this. Just close this screen.
-
-![Anaconda thank you image](../images/osx/anaconda/anaconda01.png)
-
-4. Either let your browser open with the Installer, or save it and open it yourself
-
-## Install
-
-1. In case it doesn't open automatically, *Click* on the installer file you just downloaded:
-
-2. *Click* `Continue`:
-
-![Anaconda security image](../images/osx/anaconda/anaconda02-5.png)
-
-3. You should see the initial install screen. *Click* `Continue`:
- 
- ![initial installation image](../images/osx/anaconda/anaconda03.png)
-
-4. *Click* `Continue` again:
-
-![software licence agreement image](../images/osx/anaconda/anaconda04.png)
-
-3. Accept the license by *clicking* `I Agree`:
- 
-![licence agreement](../images/osx/anaconda/anaconda05.png)
-
-4. *Click* `Install`. Only change the install location if you know what you are doing:
-
-![standard install on macintosh](../images/osx/anaconda/anaconda06.png)
-
-5. *Click* `Install Microsoft VSCode`. If it is already installed, *click* `Continue`:
-
-![menu option to also install vscode](../images/osx/anaconda/anaconda8.png)
-
-7. This is the final installation window. Just *Click* `Close`:
-
-![final installation window for anaconda](../images/osx/anaconda/anaconda09.png)
-
-8. You can move the installer to the Trash to save space on your Hard Drive by *clicking* `Move to Trash`:
-
-![move to trash image](../images/osx/anaconda/anaconda10.png)
-
-## Test
-
-Open the [OS/X](osx_terminal.md) terminal and type `python`. The terminal should print something like:
-
+Open a [windows](windows_terminal.md) or [OS/X](osx_terminal.md) terminal and type `python`. The terminal should print something like:
+* OS/X:
     ```python
     Python 3.6.3 |Anaconda, Inc.| (default, Dec  5 2017, 17:30:25) 
     [GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final)] on darwin
+    Type "help", "copyright", "credits" or "license" for more information.
+    >>> 
+    ```
+* Windows: 
+
+    ```python
+    Python 3.6.5 |Anaconda, Inc.| (default, Mar 29 2018, 13:32:41) [MSC v.1900 64 bit (AMD64)] on win32
     Type "help", "copyright", "credits" or "license" for more information.
     >>> 
     ```
