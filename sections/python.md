@@ -44,7 +44,7 @@
 
 9. *Click* `Install Microsoft VSCode`. If it is already installed, *click* `Skip`:
 
-![menu option to also install vscode](../images/windows/anaconda/anaconda8.png)
+![menu option to also install vscode](../images/windows/anaconda/anaconda08.png)
 
 10. This is the final window. You can uncheck all the boxes and *Click* `Finish`:
 
