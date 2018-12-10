@@ -96,3 +96,31 @@ usage: git [--version] [--help] [-C <path>] [-c name=value]
 
 
 ```
+## Updating an earlier development version of Git (that is already installed) 
+
+Check which development version of Git is currently installed on the computer:  
+
+1. Open a [windows](windows_terminal.md) or [OS/X](osx_terminal.md) terminal. 
+
+2. Type the following into the terminal:
+```bash 
+git --version
+ ```
+
+Check for the most recent development version of Git on their website [here](https://git-scm.com/downloads). As of December 2018, the most recent development version of Git is 2.19.2. 
+
+To update a computer that already has an earlier development version: 
+
+Open [the Git website downloads page](https://git-scm.com/downloads) in a browser and follow the posted download instructions according to the computer type: Mac, Linux/Unix, or Windows.  
+
+Then, check that the new development version of Git is now installed:
+
+1. Close, and re-open a [windows](windows_terminal.md) or [OS/X](osx_terminal.md) terminal. 
+
+2. Type the following into the terminal:
+```bash 
+git --version
+ ```
+ 
+
+
