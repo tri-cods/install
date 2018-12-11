@@ -1,6 +1,10 @@
 
-Session | Software | Guides
---------| ---------|-------------------
+# Installations
+
+Below is a table listing each DHRI session--under the "Sessions" column--and instructions to install the corresponding software that is needed to follow that session--under the "Software Installations" column. Some software installations are listed more than once, but only need to be installed once per computer. Click the hyperlinked name of the software--for example, [VScode](sections/vscode.md)--to view the instructions to complete the installation of that software.  
+
+Session | Software Installations 
+--------| --------------------
 [Command Line](https://github.com/DHRI-Curriculum/command-line) | [VScode](sections/vscode.md), [git](sections/git.md) | 
 [Git and Github](https://github.com/DHRI-Curriculum/git) | [VScode](sections/vscode.md), [git](sections/git.md) |
 [Python](https://github.com/DHRI-Curriculum/python) | [VScode](sections/vscode.md), [Python](sections/python.md) | [Conda](sections/conda.md), [Jupyter](sections/jupyter.md)
@@ -14,10 +18,14 @@ Session | Software | Guides
 [Twitter API](https://github.com/DHRI-Curriculum/twitter-api) | [Python](sections/python.md), [Tweepy](sections/tweepy.md) | [Conda](sections/conda.md), [Jupyter](sections/jupyter.md)
 [Omeka](https://github.com/DHRI-Curriculum/omeka) | [Omeka](https://omeka.org/classic/download/) |
 
-<!-- # Installation
+### Additional Guides  
 
-The following guides will help you install all the software that you will need to follow the DHRI sessions in this curriculum.
+These are two additional guides you may reference to assist with Conda and Jupyter Notebook:  
 
+[Conda Package Management](sections/conda.md)  
+[Jupyter Notebook](sections/jupyter.md)  
+
+<!-- 
 ### Software Installations
 
 [Firefox](https://www.mozilla.org/en-US/firefox/)  
@@ -31,11 +39,6 @@ The following guides will help you install all the software that you will need t
 [Pandas](sections/pandas.md)  
 [Scikit-Learn](sections/sklearn.md)  
 [Tweepy](sections/tweepy.md)  
-
-### Guides
-
-[Conda Package Management](sections/conda.md)  
-[Jupyter Notebook](sections/jupyter.md)  
 
 -----
 
