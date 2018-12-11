@@ -12,7 +12,7 @@ Session | Software | Guides
 [HTML/CSS](https://github.com/DHRI-Curriculum/html-css) | [VScode](sections/vscode.md), [Firefox](https://www.mozilla.org/en-US/firefox/new/) |
 [Digital Ethics](https://github.com/DHRI-Curriculum/digital-ethics) |
 [Twitter API](https://github.com/DHRI-Curriculum/twitter-api) | [Python](sections/python.md), [Tweepy](sections/tweepy.md) | [Conda](sections/conda.md), [Jupyter](sections/jupyter.md)
-[Omeka](https://github.com/DHRI-Curriculum/omeka) | [Omeka](https://omeka.org/classic/download/) |
+[Omeka](https://github.com/DHRI-Curriculum/omeka) | [Omeka](https://omeka.org/classic/download/) | [Omeka.net](https://github.com/GCDigitalFellows/omeka/blob/master/omekainstall.md)
 
 <!-- # Installation
 
@@ -36,6 +36,7 @@ The following guides will help you install all the software that you will need t
 
 [Conda Package Management](sections/conda.md)  
 [Jupyter Notebook](sections/jupyter.md)  
+[Omeka.net](https://github.com/GCDigitalFellows/omeka/blob/master/omekainstall.md)
 
 -----
 
