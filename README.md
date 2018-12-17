@@ -13,7 +13,7 @@ Session | Software Installation Instructions
 [HTML/CSS](https://github.com/DHRI-Curriculum/html-css) | [VScode](sections/vscode.md), [Firefox](https://www.mozilla.org/en-US/firefox/new/) |
 [Digital Ethics](https://github.com/DHRI-Curriculum/digital-ethics) |
 [Twitter API](https://github.com/DHRI-Curriculum/twitter-api) | [Python](sections/python.md), [Tweepy](sections/tweepy.md) |
-Omeka | [Omeka](https://github.com/smorello87/driomeka/blob/master/omekainstall.md) |
+Omeka | [Omeka](https://github.com/GCDigitalFellows/omeka) |
 
 Extra Guides: 
 * How to install Python libraries with [Conda](sections/conda.md)
