@@ -12,7 +12,7 @@ Session | Software Installation Instructions
 [Quantitative Analysis](https://github.com/DHRI-Curriculum/quantitative-analysis) |
 [HTML/CSS](https://github.com/DHRI-Curriculum/html-css) | [VScode](sections/vscode.md), [Firefox](https://www.mozilla.org/en-US/firefox/new/) |
 [Digital Ethics](https://github.com/DHRI-Curriculum/digital-ethics) |
-[Twitter API](https://github.com/DHRI-Curriculum/twitter-api) | [Python](sections/python.md), [Tweepy](sections/tweepy.md) |
+<!-- [Twitter API](https://github.com/DHRI-Curriculum/twitter-api) | [Python](sections/python.md), [Tweepy](sections/tweepy.md) |-->
 Omeka | [Omeka](https://github.com/GCDigitalFellows/omeka/blob/master/omekainstall.md) |
 
 Extra Guides: 
