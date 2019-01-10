@@ -6,10 +6,9 @@ Session | Software Installation Instructions
 [Git and Github](https://github.com/DHRI-Curriculum/git) | [VScode](sections/vscode.md), [git](sections/git.md) |
 [Python](https://github.com/DHRI-Curriculum/python) | [VScode](sections/vscode.md), [Python](sections/python.md) | 
 [Databases](https://github.com/DHRI-Curriculum/databases) | [Python](sections/python.md), [Pandas](sections/pandas.md) |
-[Text-Analyis](https://github.com/DHRI-Curriculum/text-analysis) | [Python](sections/python.md), [NLTK](sections/nltk.md) |
+[Text-Analysis](https://github.com/DHRI-Curriculum/text-analysis) | [Python](sections/python.md), [NLTK](sections/nltk.md) |
 [Mapping](https://github.com/DHRI-Curriculum/mapping) | [QGIS](sections/qgis.md) |
 [Machine Learning](https://github.com/DHRI-Curriculum/machine-learning)| [Python](sections/python.md), [Pandas](sections/pandas.md), [NLTK](sections/nltk.md), [Sklearn](sections/sklearn.md)|
-[Quantitative Analysis](https://github.com/DHRI-Curriculum/quantitative-analysis) |
 [HTML/CSS](https://github.com/DHRI-Curriculum/html-css) | [VScode](sections/vscode.md), [Firefox](https://www.mozilla.org/en-US/firefox/new/) |
 [Digital Ethics](https://github.com/DHRI-Curriculum/digital-ethics) |
 [Omeka](https://github.com/GCDigitalFellows/omeka/) | [Omeka](https://github.com/GCDigitalFellows/omeka/blob/master/omekainstall.md) |
