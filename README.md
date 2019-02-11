@@ -10,7 +10,7 @@ Session | Software Installation Instructions
 [Mapping](https://github.com/DHRI-Curriculum/mapping) | [QGIS](sections/qgis.md) |
 [Machine Learning](https://github.com/DHRI-Curriculum/machine-learning)| [Python](sections/python.md), [Pandas](sections/pandas.md), [NLTK](sections/nltk.md), [Sklearn](sections/sklearn.md)|
 [HTML/CSS](https://github.com/DHRI-Curriculum/html-css) | [VScode](sections/vscode.md), [Firefox](https://www.mozilla.org/en-US/firefox/new/) |
-[Digital Ethics](https://github.com/DHRI-Curriculum/digital-ethics) |
+[Digital Ethics](https://github.com/DHRI-Curriculum/ethics) |
 [Omeka](https://github.com/GCDigitalFellows/omeka/) | [Omeka](https://github.com/GCDigitalFellows/omeka/blob/master/omekainstall.md) |
 <!-- [Twitter API](https://github.com/DHRI-Curriculum/twitter-api) | [Python](sections/python.md), [Tweepy](sections/tweepy.md) |-->
 
