@@ -2,12 +2,12 @@ Check the links below for the content of courses and the installation instructio
 
 # Installations
 
-Below is a table listing each DHRI session--under the "Sessions" column--and instructions to install the corresponding software that is needed to follow that session--under the "Software Installations" column. Some software installations are listed more than once, but only need to be installed once per computer. Click the hyperlinked name of the software--for example, [VScode](sections/vscode.md)--to view the instructions to complete the installation of that software.  
+Below is a table listing each DHRI session--under the "Sessions" column--and instructions to install the corresponding software that is needed to follow that session--under the "Software Installations" column. Some software installations are listed more than once, but only need to be installed once per computer. Click the hyperlinked name of the software--for example, [Atom](sections/atom.md)--to view the instructions to complete the installation of that software.  
 
 Session | Software Installation Instructions
 --------| ---------
-[Command Line](https://github.com/DHRI-Curriculum/command-line) | [VScode](sections/vscode.md), [git](sections/git.md) | 
-[Git and Github](https://github.com/DHRI-Curriculum/git) | [VScode](sections/vscode.md), [git](sections/git.md) |
+[Command Line](https://github.com/DHRI-Curriculum/command-line) | [Atom](sections/atom.md), [git](sections/git.md) | 
+[Git and Github](https://github.com/DHRI-Curriculum/git) | [Atom](sections/atom.md), [git](sections/git.md) |
 <!-- [Twitter API](https://github.com/DHRI-Curriculum/twitter-api) | [Python](sections/python.md), [Tweepy](sections/tweepy.md) |-->
 
 
