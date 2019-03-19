@@ -62,7 +62,7 @@ Download Atom at https://atom.io/ by clicking on:
 
 3. Once the download is complete, *double-clik* on it to open it
 
-4. A the Atom.app icon will appear next to the zip file
+4. The Atom.app icon will appear next to the zip file
 
 ![Atom.app](../images/osx/atom/atom_zip.png)
 
@@ -85,5 +85,5 @@ If you do, do the following:
 
 Atom should now be installed. You should see something like this window when you open Atom:
 
-![main Atom screen with welcome guide](../images/OSX/atom/welcome_atom.png)
+![main Atom screen with welcome guide](../images/osx/atom/welcome_atom.png)
  
