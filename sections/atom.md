@@ -82,8 +82,6 @@ If you do, do the following:
 
    - At the bottom you will see an option to give permision to open Atom
 
-8. [Test Install](#test-install)
-
 ## Test Install
 
 Atom should now be installed. You should see something like this window when you open Atom:
