@@ -14,7 +14,7 @@ Download Atom at https://atom.io/ by clicking on:
 
 ### Windows
 
-* we are working on it! 
+* we are working on it! [see Atom's documentation here](https://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-windows)
 <!--
 1. *Click* on the VScode installer in your downloads folder:
 
