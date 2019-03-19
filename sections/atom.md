@@ -1,5 +1,5 @@
 # Atom
-A text editor is a simple notepad type application. For the DSRI, we will be using the [Atom](https://atom.io/) text editor, is free and open source, and is consistent across OSX, Windows, and Linux systems.
+A text editor is a simple notepad type application. For the DSRI, we will be using the [Atom](https://atom.io/) text editor, is free and open source, and is consistent across OSX, Windows, and Linux systems. [for Atom's full documentation go here](https://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-windows)
 
 ## Install
 Download Atom at https://atom.io/ by clicking on:
