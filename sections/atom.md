@@ -76,9 +76,11 @@ Download Atom at https://atom.io/ by clicking on:
 ![security pop-up](../images/osx/atom/security_popup.png)
 
 If you do, do the following:
-    - Open *system preferences* and click on the security & privacy icon
-    ![security icon](../images/osx/atom/security.png)
-    - At the bottom you will see an option to give permision to open Atom
+   - Open *system preferences* and click on the security & privacy icon
+
+![security icon](../images/osx/atom/security.png)
+
+   - At the bottom you will see an option to give permision to open Atom
 
 8. [Test Install](#test-install)
 
