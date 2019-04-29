@@ -33,6 +33,7 @@ For either operating system, the program might take some time to open
 ### Possible issues when installing OpenRefine
 
 **OpenRefine does not start after clicking the .exe, it only opens and closes a window**
+
 Ensure that you have a Java JRE installed on your system. And have at least 1 GB of RAM available for it.
 
 
