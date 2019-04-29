@@ -1,4 +1,4 @@
-# Open Refine .... in progress
+# Open Refine
 
 ## Installation
 
