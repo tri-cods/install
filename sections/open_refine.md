@@ -1,9 +1,11 @@
 # Open Refine
 
 ## Requirements
-	1. Java JRE installed
-		* OpenRefine requires you to have a working Java JRE, otherwise you will not be able to start OpenRefine. (the commmand window will just open and close quickly after you double click on OpenRefine.exe)
-	2. Supported OS (Windows, OSX, Linux)
+1. Java JRE installed
+
+* OpenRefine requires you to have a working Java JRE, otherwise you willnot be able to start OpenRefine.(the commmand window will just open and close quickly after you double click on OpenRefine.exe)
+
+2. Supported OS (Windows, OSX, Linux)
 
 
 ## Installation
