@@ -12,7 +12,7 @@
 
 **For this workshop we will be using OpenRefine 3.1 and NOT! OpenRefine 3.2 beta**
 
-If you already have OpenRefine installed in your computer but have an older version, OpenRefine recomends that you backup your working directory (i.e. the folder in your computer where OpenRefine saves projects). Go [here](#backing-up)
+If you already have OpenRefine installed in your computer but have an older version, OpenRefine recomends that you backup your working directory (i.e. the folder in your computer where OpenRefine saves projects). If you need to backup your working directory, go [here](#backing-up)
 
 To install OpenRefine go [here](http://openrefine.org/download.html)
 
