@@ -25,7 +25,7 @@ If using windows:
 * OpenRefine will open on your web browswer 
 
 If using mac:
-* click on **Mac Kit** link then download
+* click on **Mac Kit** link under OpenRefine 3.1 then download
 * open the downloaded .dmg file.
 * drag icon into Applications folder
 * double click on the icone
