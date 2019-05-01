@@ -21,7 +21,7 @@ To install OpenRefine go [here](http://openrefine.org/download.html)
 
 If using windows: 
 * click on **Windows Kit** link under OpenRefine 3.1 then download 
-* unzip and double-click on openrefine.exe. (If you’re having issues with the above, try double-clicking on refine.bat instead.)
+* unzip and extract files then double-click on openrefine.exe. (If you’re having issues with the above, try double-clicking on refine.bat instead.)
 * OpenRefine will open on your web browswer 
 
 If using mac:
