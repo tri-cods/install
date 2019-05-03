@@ -16,7 +16,7 @@ Download Atom at https://atom.io/ by clicking on:
 
 1. [Download Atom](#install)
 
-![download log](../images/windows/download.png)
+![download log](../images/windows/atom/download.png)
 
 2. *Save* AtomSetup.exe file anywhere you want (it is easier to find if you save it to your desktop)
 
@@ -26,13 +26,13 @@ Download Atom at https://atom.io/ by clicking on:
 
 4. You may see the following while Atom is being installed
 
-![installing atom](../images/windows/installing.png)
+![installing atom](../images/windows/atom/installing.png)
 
 5. Once Atom is installed, it will open automatically
 
 6. You may see a message that looks like the one below, if you do, click no
 
-![URI](../images/windows/URI.png)
+![URI](../images/windows/atom/URI.png)
 
 Atom should now be installed. You should see something like this window when you open Atom:
 
