@@ -14,46 +14,30 @@ Download Atom at https://atom.io/ by clicking on:
 
 ### Windows
 
-* we are working on it! [see Atom's documentation here](https://flight-manual.atom.io/getting-started/sections/installing-atom/#platform-windows)
-<!--
-1. *Click* on the VScode installer in your downloads folder:
+1. [Download Atom](#install)
 
-![installer shortcut - shaded blue box with ribbon logo. It has something like `VSCodeSetup-` at the front of its filename](../images/windows/vscode/vscode00.png)
+![download log](../images/windows/download.png)
 
-2. When you see this window, *click* `Next`:
+2. *Save* AtomSetup.exe file anywhere you want (it is easier to find if you save it to your desktop)
 
- ![initial installer window](../images/windows/vscode/vscode01.png)
- 
- 3. Accept the license agreement by *selecting* the first radio button. Then *click* `next`  
- 
- ![license agreement install window](../images/windows/vscode/vscode02.png)
- 
- 4. Choose the folder on the computer that VSCode should be installed in (the default is usually fine). Then *click* `Next`:
- 
- ![installation folder selection window with a browse button to enable you to search for an installation folder](../images/windows/vscode/vscode03.png)
- 
- 4b. Windows only: Choose the folder in the start menu that VSCode should be installed in. Then *click* `Next`:
- 
- ![select start menu folder installation window, with a browse button to enable you to search for a folder on the start menu to ](../images/windows/vscode/vscode04.png)
- 
- 4c. Windows only: Please *check* the box that says `Add to PATH`, which is the fifth (last) box. Check the other boxes at your own discretion. Then *click* `Next`:
- 
- ![Select additional tools menu of check boxes. The options are (top to bottom): i. Create a desktop icon, ii. Add `Open With Code` action to Windows Explorer file context menu, iii. Add `Open With Code` action to Windows Explorer directory context menu, iv. Register code as an editor for supported file types, v. Add to Path (available after restart)](../images/windows/vscode/vscode05.png)
+![AtomSetup](../images/windows/atom/exe.png)
 
-5. You should see a window listing the configurations you chose in the previous steps. If they are incorrect, *click* `Back` and redo the previous steps. If they are correct, *click* `Install`:
+3. Double click on AtomSetup.exe
 
- ![ready to install window listing configurations](../images/windows/vscode/vscode06.png)
+4. You may see the following while Atom is being installed
 
-6. Sit back and relax because the install will take a while. You should see a window with a progress bar similar to this:
+![installing atom](../images/windows/installing.png)
 
-![progress bar showing how far along the install is](../images/windows/vscode/vscode07.png) 
+5. Once Atom is installed, it will open automatically
 
-7. *Check* the "Launch Visual Studio Code" checkbox and then *click* `Next`
+6. You may see a message that looks like the one below, if you do, click no
 
-![setup finished window with launch visual studio code checkbox](../images/windows/vscode/vscode08.png)
+![URI](../images/windows/URI.png)
 
-8. [Test Install](#test-install)
--->
+Atom should now be installed. You should see something like this window when you open Atom:
+
+![main Atom screen with welcome guide](../images/osx/atom/welcome_atom.png)
+
 
 ### OS/X
 
