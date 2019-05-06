@@ -31,7 +31,7 @@ Session | Software Installation Instructions
 
 Session Leader: Hannah Aizenman -->
  
-All install guides above are based on work by: Hannah Aizenman, Michelle McSweeney, Rachel Rakov, Rafael Davis Portela, and Stefano Morello.
+All install guides above are based on work by: Hannah Aizenman, Andrew Janco, Nabil Kashyap, Jessica Linker, Alice McGrath, Michelle McSweeney, Stefano Morello, Alicia Peaker, Rafael Davis Portela, Rachel Rakov, Roberto Vargas, and Mike Zarafonetis.
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
