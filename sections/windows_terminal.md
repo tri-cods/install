@@ -3,7 +3,7 @@ How to open a terminal:
 
 Windows:
 -----------
-In Windows, there are two terminal options: command prompt and anaconda prompt.
+In Windows, we will be using the command prompt.
 
 ## Command Prompt
 
