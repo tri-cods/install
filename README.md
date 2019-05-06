@@ -9,6 +9,7 @@ Session | Software Installation Instructions
 [Command Line](https://github.com/tri-cods/command-line) | [Atom](sections/atom.md), [git](sections/git.md) | 
 [Git and Github](https://github.com/tri-cods/github) | [Atom](sections/atom.md), [git](sections/git.md) |
 [Tidy(ish) Data](https://github.com/tri-cods/tidy-data) | [OpenRefine](sections/open_refine.md) |
+[Pedagogy Project (minimal Editions)] |
 <!-- [Twitter API](https://github.com/DHRI-Curriculum/twitter-api) | [Python](sections/python.md), [Tweepy](sections/tweepy.md) |-->
 
 <!-- 
