@@ -4,7 +4,7 @@ A text editor is a simple notepad type application. For the DSRI, we will be usi
 ## Install
 Download Atom at https://atom.io/ by clicking on:
 
-![download logo](../images/osx/atom/atom_download_button.png)
+[![download logo](../images/osx/atom/atom_download_button.png)](https://atom.io/)
 
 ### Once you have downloaded Atom follow the instructions below based on your OS
 
@@ -16,7 +16,7 @@ Download Atom at https://atom.io/ by clicking on:
 
 1. [Download Atom](#install)
 
-![download log](../images/windows/atom/download.png)
+[![download log](../images/windows/atom/download.png)](https://atom.io/)
 
 2. *Save* AtomSetup.exe file anywhere you want (it is easier to find if you save it to your desktop)
 
