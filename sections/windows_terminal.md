@@ -12,6 +12,7 @@ In Windows, there are two terminal options: command prompt and anaconda prompt.
 2. The Command Prompt will look like this:
 ![image of a windows command prompt terminal. The](../images/windows/terminal/cmd02.png)
 
+<---
 ## Anaconda
 1) Navigate to the program:
     * __search__: enter `Anaconda` into the search bar.
@@ -22,4 +23,4 @@ In Windows, there are two terminal options: command prompt and anaconda prompt.
 ![windows start menu folder structure for anaconda. Anaconda -> *Anaconda Cloud, *Anaconda Prompt, *IPython, ...](../images/windows/terminal/anaconda_menu.png)
 
 3) You should see a window that looks like this:
-![anaconda prompt windows command shell window](../images/windows/terminal/anaconda_windows.png)
+![anaconda prompt windows command shell window](../images/windows/terminal/anaconda_windows.png)-->
