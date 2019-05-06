@@ -10,10 +10,10 @@ Session | Software Installation Instructions
 [Git and Github](https://github.com/DHRI-Curriculum/git) | [Atom](sections/atom.md), [git](sections/git.md) |
 <!-- [Twitter API](https://github.com/DHRI-Curriculum/twitter-api) | [Python](sections/python.md), [Tweepy](sections/tweepy.md) |-->
 
-
+<!--
 Extra Guides: 
 * How to install Python libraries with [Conda](sections/conda.md)
-* How to use [Jupyter Notebook](sections/jupyter.md)
+* How to use [Jupyter Notebook](sections/jupyter.md)-->
 
 ### Additional Guides  
 
