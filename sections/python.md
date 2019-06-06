@@ -87,7 +87,7 @@ If you need to update your version, the easiest way is also on the Anaconda Prom
 
 ## Test
 
-Open a [windows](windows_terminal.md) and type `python`. The terminal should print something like:
+Open a [windows terminal](windows_terminal.md) and type `python`. The terminal should print something like:
 
     ```python
     Python 3.6.5 |Anaconda, Inc.| (default, Mar 29 2018, 13:32:41) [MSC v.1900 64 bit (AMD64)] on win32
