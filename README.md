@@ -13,7 +13,7 @@ Session | Software Installation Instructions
 [Text-Analysis](https://github.com/GC-DRI/text-analysis) | [Python](sections/python.md), [NLTK](sections/nltk.md) |
 [Mapping](https://github.com/GC-DRI/mapping) | [QGIS](sections/qgis.md) |
 [Machine Learning](https://github.com/GC-DRI/machine-learning)| [Python](sections/python.md), [Pandas](sections/pandas.md), [NLTK](sections/nltk.md), [Sklearn](sections/sklearn.md)|
-[HTML/CSS](https://github.com/DHRI-Curriculum/html-css) | [VScode](sections/vscode.md), [Firefox](https://www.mozilla.org/en-US/firefox/new/) |
+[HTML/CSS](https://github.com/GC-DRI/html-css) | [VScode](sections/vscode.md), [Firefox](https://www.mozilla.org/en-US/firefox/new/) |
 [Digital Ethics](https://github.com/GC-DRI/digital-ethics) |
 [Twitter API](https://github.com/GC-DRI/twitter-api) | [Python](sections/python.md), [Tweepy](sections/tweepy.md) | [Conda](sections/conda.md), [Jupyter](sections/jupyter.md)
 [Omeka](https://github.com/GC-DRI/omeka) | [Omeka](https://omeka.org/classic/download/) | [Omeka.net](https://github.com/GCDigitalFellows/omeka/blob/master/omekainstall.md)
