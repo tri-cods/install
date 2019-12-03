@@ -10,9 +10,12 @@ Session | Software Installation Instructions
 [Git and Github](https://github.com/GC-DRI/git) | [VScode](sections/vscode.md), [git](sections/git.md) |
 [Python](https://github.com/GC-DRI/python) | [VScode](sections/vscode.md), [Python](sections/python.md) | 
 [Databases](https://github.com/GC-DRI/databases) | [Python](sections/python.md), [Pandas](sections/pandas.md) |
-[Text-Analysis](https://github.com/GC-DRI/text-analysis) | [Python](sections/python.md), [NLTK](sections/nltk.md) |
+[Text-Analysis with Python](https://github.com/GC-DRI/text-analysis) | [Python](sections/python.md), [NLTK](sections/nltk.md) |
+[Intro to R](https://github.com/GC-DRI/R) | [R](sections/R.md) |
+[Data Analysis with R](https://github.com/GC-DRI/R_data_analysis) | [R](sections/R.md) |
+[Data Visualization with R](https://github.com/GC-DRI/R_data_vis) | [R](sections/R.md) |
 [Mapping](https://github.com/GC-DRI/mapping) | [QGIS](sections/qgis.md) |
-[Machine Learning](https://github.com/GC-DRI/machine-learning)| [Python](sections/python.md), [Pandas](sections/pandas.md), [NLTK](sections/nltk.md), [Sklearn](sections/sklearn.md)|
+[Machine Learning with Python](https://github.com/GC-DRI/machine-learning)| [Python](sections/python.md), [Pandas](sections/pandas.md), [NLTK](sections/nltk.md), [Sklearn](sections/sklearn.md)|
 [HTML/CSS](https://github.com/GC-DRI/html-css) | [VScode](sections/vscode.md), [Firefox](https://www.mozilla.org/en-US/firefox/new/) |
 [Digital Ethics](https://github.com/GC-DRI/digital-ethics) |
 [Twitter API](https://github.com/GC-DRI/twitter-api) | [Python](sections/python.md), [Tweepy](sections/tweepy.md) | [Conda](sections/conda.md), [Jupyter](sections/jupyter.md)
