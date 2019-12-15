@@ -33,7 +33,9 @@ If you need to update your version, the easiest way is also on the Anaconda Prom
 * Wait for the process to finish. This should take even longer, so go grab a cup of coffee.
 * After it is finished, type `conda --version` and press Enter. The output should be the same version as the one in the webpage.
 
-# Installation Windows 
+# Installation Windows
+
+We **strongly** recommend you to follow the screens below step by step.
 
 ## Download Python 3.+: 
 
