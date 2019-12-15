@@ -1,30 +1,8 @@
 # NLTK 
 
-[NLTK](http://www.nltk.org/) is the Natural Language Tool Kit. It is installed via the [conda](conda.md) package managment system and may already be installed in your environment.
+[NLTK](http://www.nltk.org/) is the Natural Language Tool Kit. ATTENTION: NLTK comes installed with the [conda](conda.md) package managment system and may already be installed in your environment.
 
-## Install NLTK
-1. Open a [Windows](windows_terminal.md) or [OSX](osx_terminal.md) terminal and type:
-
-```
-conda install nltk -y
-```
-
-2. The terminal should print something like the following:
-
-```bash
-Fetching package metadata .............
-Solving package specifications: .
-
-Package plan for installation in environment /Users/hannah/miniconda3/envs/installenv:
-
-The following NEW packages will be INSTALLED:
-
-    nltk: 3.3.0-py36_0
-```
-
-## NLTK Data
-
-You then need to install the data that NLTK relies on to function. This may take several minutes (depending on your internet connection). Some packages may fail installation due to being outdated - this is alright, and will not be a problem for our lessons. If you get an error about a package failing, just shut down the install and move on to the [install test](#test-install).
+## Checking if NLTK is already installed
 
 1. Open a [Windows](windows_terminal.md) or [OSX](osx_terminal.md) terminal and type `python` to launch a Python interpreter. You should get something like this:
 ```python
@@ -43,12 +21,36 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> import nltk
 ```
 
-If this step fails, you need to [install NLTK](#install-nltk):
+If this step fails, you need to follow the next step. If it is already installed, proceed to [NLTK Data](#nltk-data):
+
+## Install NLTK
+1. Open a [Windows](windows_terminal.md) or [OSX](osx_terminal.md) terminal and type:
+
+```
+conda install nltk -y
+```
+
+2. The terminal should print something like the following:
+
+```bash
+Fetching package metadata .............
+Solving package specifications: .
+
+Package plan for installation in environment /Users/hannah/miniconda3/envs/installenv:
+
+The following NEW packages will be INSTALLED:
+
+    nltk: 3.4.5-py37_4
+```
+
+## NLTK Data
+
+You then need to install the data that NLTK relies on to function. This may take several minutes (depending on your internet connection). Some packages may fail installation due to being outdated - this is alright, and will not be a problem for our lessons. If you get an error about a package failing, just shut down the install and move on to the [install test](#test-install).
 
 ### Using the GUI
 Load the NLTK GUI download tool: 
 
-1. In your Python environment run the following command after import nltk:
+1. In your Python environment run the following command *after* import nltk:
 
 ```python
 nltk.download()
