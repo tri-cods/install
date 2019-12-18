@@ -10,7 +10,7 @@
 
 ## Windows Install:
 
-1. [Download](#download)
+1. Download
 
 2. Follow the instructions provided by the installer you downloaded.  
 
@@ -18,7 +18,7 @@
 
 ## Mac OS/X:
 
-1. [Download](#download)
+1. Download
 
 2. Follow the instructions provided by the installer you downloaded.  
 
