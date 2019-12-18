@@ -6,7 +6,7 @@
 ## Download
 * Download __QGIS Version 3.10.1__ from https://qgis.org/en/site/forusers/download.html:
 
-![list of qgis download options](../mapping/sections/images/InstallQGIS.png)
+![list of qgis download options](../images/osx/InstallQGIS.png)
 
 ## Windows Install:
 
