@@ -4,7 +4,7 @@
 
 
 ## Download
-* Download __QGIS Version 3.10.1__ from https://qgis.org/en/site/forusers/download.html:
+* Download __QGIS Version 3.10__ from https://qgis.org/en/site/forusers/download.html:
 
 ![list of qgis download options](../images/osx/InstallQGIS.png)
 
@@ -36,7 +36,7 @@
 You may need to change [security & privacy settings](https://support.apple.com/en-us/HT202491) to allow app downloads from outside sources.
 
 ## Test Install
- Launch __QGIS 3.10.1. A new project will look like this:
+ Launch __QGIS 3.10. A new project will look like this:
 
 ![qgis installer](../images/osx/newprojectQGIS.png)
 
