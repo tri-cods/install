@@ -4,9 +4,9 @@
 
 
 ## Download
-* Download __QGIS Version 2.18__ from https://qgis.org/en/site/forusers/download.html:
+* Download __QGIS Version 3.10.1__ from https://qgis.org/en/site/forusers/download.html:
 
-![list of qgis download options (version 3.0 64 bit, 3.0, 32 bit, 2.18 64 bit, 2.18 32 bit) with 2.18 64bit circled](../images/windows/qgis/qgis_download.png)
+![list of qgis download options](../mapping/sections/images/InstallQGIS.png)
 
 ## Windows Install:
 
