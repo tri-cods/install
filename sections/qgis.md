@@ -10,7 +10,7 @@
 
 ## Windows Install:
 
-1. Download
+1. Download the version "QGIS Standalone Installer Version 3.10 (64 bit)"
 
 2. Follow the instructions provided by the installer you downloaded.  
 
