@@ -113,7 +113,7 @@ Type `exit()` to leave python
  
 2. *Click* on the Python 3.+ button:
 
-![Anaconda download webpage with 3.6 button highlighted](../images/osx/anaconda/anaconda00.png)
+![Anaconda download webpage with 3.6 button highlighted](../images/osx/anaconda/condaosx1.png)
 
 3. You can ignore this. Just close this screen.
 
