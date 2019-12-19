@@ -2,6 +2,8 @@
 
 [QGIS](http://www.qgis.org/en/site/) is a free and open source Geographical Information System. 
 
+Please note that in addition to QGIS, participants need to have a spreadsheet program, such as the ones found in Microsoft Office, Libre Office, and Open Office. 
+
 
 ## Download
 * Download __QGIS Version 3.10__ from https://qgis.org/en/site/forusers/download.html:
