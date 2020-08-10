@@ -4,14 +4,13 @@ _Check the links below for the content of courses and the installation instructi
 
 Below is a table listing each DHRI session—under the "Sessions" column—and instructions to install the corresponding software that is needed to follow that session—under the "Software Installations" column. Some software installations are listed more than once, but only need to be installed once per computer. Click the hyperlinked name of the software—for example, [Visual Studio Code](sections/vscode.md)—to view the instructions to complete the installation of that software.  
 
-Session | Software Installation Instructions
---------| ---------
-[Command Line](https://github.com/DHRI-Curriculum/command-line) | [Visual Studio Code](sections/vscode.md), [git](sections/git.md) | 
-[Data Literacies](https://github.com/DHRI-Curriculum/data-literacies) |
-[Git and Github](https://github.com/DHRI-Curriculum/git) | [Visual Studio Code](sections/vscode.md), [git](sections/git.md) |
-[Python](https://github.com/DHRI-Curriculum/python) | [Visual Studio Code](sections/vscode.md), [Python](sections/python.md) | 
-[Text-Analysis with Python](https://github.com/DHRI-Curriculum/text-analysis) | [Python](sections/python.md), [NLTK](sections/nltk.md) |
-[HTML/CSS](https://github.com/DHRI-Curriculum/html-css) | [Visual Studio Code](sections/vscode.md), [Firefox](https://www.mozilla.org/en-US/firefox/new/) 
+## Table of Contents
+
+- [Visual Studio Code](guides/visual-studio-code.md)
+- [git](guides/git.md)
+- [Python](guides/python.md)
+- [NLTK](guides/nltk.md)
+- [Firefox](guides/firefox.md)
 <!--
 [Intro to R](https://github.com/GC-DRI/R) | [R](sections/R.md) |
 [Data Analysis with R](https://github.com/GC-DRI/R_data_analysis) | [R](sections/R.md) |
@@ -21,16 +20,16 @@ Session | Software Installation Instructions
 [Twitter API](https://github.com/GC-DRI/twitter-api) | [Python](sections/python.md), [Tweepy](sections/tweepy.md) | [Conda](sections/conda.md), [Jupyter](sections/jupyter.md) |
 -->
 
-## Additional Guides  
-
+<!--
+Additional Guides  
 These are two additional guides you may reference to assist with Conda and Jupyter Notebook:  
-
 [Conda Package Management](sections/conda.md)  
 [Jupyter Notebook](sections/jupyter.md)  
- 
+-->
+
 ---
 
-All install guides above are based on work by: Hannah Aizenman, Michelle McSweeney, Rachel Rakov, Rafael Davis Portela, and Stefano Morello.
+All install guides are based on work by: Rafael Davis Portela, Stefano Morello, Rachel Rakov, Hannah Aizenman, and Michelle McSweeney
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
