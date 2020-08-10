@@ -16,7 +16,7 @@ For the Digital Humanities Research Institute, we use the Visual Studio Code as 
 
 A step should contain no more than one or two clicks/dragging files, or entering information into text boxes, unless there is, for example, a form where you may need to input multiple points of information in the same place.
 
-Screenshot: ![installer shortcut - shaded blue box with ribbon logo. It has something like `VSCodeSetup-` at the front of its filename](../../images/windows/vscode/vscode00.png)
+Screenshot: ![installer shortcut - shaded blue box with ribbon logo. It has something like `VSCodeSetup-` at the front of its filename](../images/windows/vscode/vscode00.png)
 
 #### Step 2: XYZ
 
