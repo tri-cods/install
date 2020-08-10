@@ -5,7 +5,7 @@ Git is a distributed version control system used to manage changes to text files
 
 On OS/X, git is part of the xcode command line tools. To install them:
 
-1. Open a [terminal](osx_terminal).
+1. Open a [terminal](osx_terminal.md).
 
 2. Type the following in the terminal:
 ```bash
