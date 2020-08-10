@@ -6,18 +6,20 @@ Below is a table listing each DHRI session—under the "Sessions" column—and i
 
 Session | Software Installation Instructions
 --------| ---------
-[Command Line](https://github.com/GC-DRI/command-line) | [Visual Studio Code](sections/vscode.md), [git](sections/git.md) | 
-[Digital Ethics and Data](https://github.com/GC-DRI/ethics-data) |
-[Git and Github](https://github.com/GC-DRI/git) | [Visual Studio Code](sections/vscode.md), [git](sections/git.md) |
-[Python](https://github.com/GC-DRI/python) | [Visual Studio Code](sections/vscode.md), [Python](sections/python.md) | 
-[Text-Analysis with Python](https://github.com/GC-DRI/text-analysis) | [Python](sections/python.md), [NLTK](sections/nltk.md) |
+[Command Line](https://github.com/DHRI-Curriculum/command-line) | [Visual Studio Code](sections/vscode.md), [git](sections/git.md) | 
+[Data Literacies](https://github.com/DHRI-Curriculum/data-literacies) |
+[Git and Github](https://github.com/DHRI-Curriculum/git) | [Visual Studio Code](sections/vscode.md), [git](sections/git.md) |
+[Python](https://github.com/DHRI-Curriculum/python) | [Visual Studio Code](sections/vscode.md), [Python](sections/python.md) | 
+[Text-Analysis with Python](https://github.com/DHRI-Curriculum/text-analysis) | [Python](sections/python.md), [NLTK](sections/nltk.md) |
+[HTML/CSS](https://github.com/DHRI-Curriculum/html-css) | [Visual Studio Code](sections/vscode.md), [Firefox](https://www.mozilla.org/en-US/firefox/new/) 
+<!--
 [Intro to R](https://github.com/GC-DRI/R) | [R](sections/R.md) |
 [Data Analysis with R](https://github.com/GC-DRI/R_data_analysis) | [R](sections/R.md) |
 [Data Visualization with R](https://github.com/GC-DRI/R_data_vis) | [R](sections/R.md) |
 [Mapping](https://github.com/GC-DRI/mapping) | [QGIS](sections/qgis.md) |
 [Omeka](https://github.com/GC-DRI/omeka) | [Omeka](https://github.com/GCDigitalFellows/omeka/blob/master/sections/omekainstall.md) | [Omeka.net](https://github.com/GCDigitalFellows/omeka/blob/master/omekainstall.md) |
 [Twitter API](https://github.com/GC-DRI/twitter-api) | [Python](sections/python.md), [Tweepy](sections/tweepy.md) | [Conda](sections/conda.md), [Jupyter](sections/jupyter.md) |
-[HTML/CSS](https://github.com/GC-DRI/html-css) | [Visual Studio Code](sections/vscode.md), [Firefox](https://www.mozilla.org/en-US/firefox/new/) 
+-->
 
 ## Additional Guides  
 
