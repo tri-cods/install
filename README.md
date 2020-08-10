@@ -2,14 +2,14 @@
 
 _Check the links below for the content of courses and the installation instructions._
 
-Below is a table listing each DHRI session—under the "Sessions" column—and instructions to install the corresponding software that is needed to follow that session—under the "Software Installations" column. Some software installations are listed more than once, but only need to be installed once per computer. Click the hyperlinked name of the software—for example, [VScode](sections/vscode.md)—to view the instructions to complete the installation of that software.  
+Below is a table listing each DHRI session—under the "Sessions" column—and instructions to install the corresponding software that is needed to follow that session—under the "Software Installations" column. Some software installations are listed more than once, but only need to be installed once per computer. Click the hyperlinked name of the software—for example, [Visual Studio Code](sections/vscode.md)—to view the instructions to complete the installation of that software.  
 
 Session | Software Installation Instructions
 --------| ---------
-[Command Line](https://github.com/GC-DRI/command-line) | [VScode](sections/vscode.md), [git](sections/git.md) | 
+[Command Line](https://github.com/GC-DRI/command-line) | [Visual Studio Code](sections/vscode.md), [git](sections/git.md) | 
 [Digital Ethics and Data](https://github.com/GC-DRI/ethics-data) |
-[Git and Github](https://github.com/GC-DRI/git) | [VScode](sections/vscode.md), [git](sections/git.md) |
-[Python](https://github.com/GC-DRI/python) | [VScode](sections/vscode.md), [Python](sections/python.md) | 
+[Git and Github](https://github.com/GC-DRI/git) | [Visual Studio Code](sections/vscode.md), [git](sections/git.md) |
+[Python](https://github.com/GC-DRI/python) | [Visual Studio Code](sections/vscode.md), [Python](sections/python.md) | 
 [Text-Analysis with Python](https://github.com/GC-DRI/text-analysis) | [Python](sections/python.md), [NLTK](sections/nltk.md) |
 [Intro to R](https://github.com/GC-DRI/R) | [R](sections/R.md) |
 [Data Analysis with R](https://github.com/GC-DRI/R_data_analysis) | [R](sections/R.md) |
@@ -17,7 +17,7 @@ Session | Software Installation Instructions
 [Mapping](https://github.com/GC-DRI/mapping) | [QGIS](sections/qgis.md) |
 [Omeka](https://github.com/GC-DRI/omeka) | [Omeka](https://github.com/GCDigitalFellows/omeka/blob/master/sections/omekainstall.md) | [Omeka.net](https://github.com/GCDigitalFellows/omeka/blob/master/omekainstall.md) |
 [Twitter API](https://github.com/GC-DRI/twitter-api) | [Python](sections/python.md), [Tweepy](sections/tweepy.md) | [Conda](sections/conda.md), [Jupyter](sections/jupyter.md) |
-[HTML/CSS](https://github.com/GC-DRI/html-css) | [VScode](sections/vscode.md), [Firefox](https://www.mozilla.org/en-US/firefox/new/) 
+[HTML/CSS](https://github.com/GC-DRI/html-css) | [Visual Studio Code](sections/vscode.md), [Firefox](https://www.mozilla.org/en-US/firefox/new/) 
 
 ## Additional Guides  
 
