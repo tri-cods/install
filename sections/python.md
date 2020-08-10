@@ -33,7 +33,9 @@ If you need to update your version, the easiest way is also on the Anaconda Prom
 * Wait for the process to finish. This should take even longer, so go grab a cup of coffee.
 * After it is finished, type `conda --version` and press Enter. The output should be the same version as the one in the webpage.
 
-# Installation Windows 
+# Installation Windows
+
+We **strongly** recommend you to follow the screens below step by step.
 
 ## Download Python 3.+: 
 
@@ -47,7 +49,7 @@ If you need to update your version, the easiest way is also on the Anaconda Prom
 
 ![Anaconda thank you image](../images/windows/anaconda/anaconda01.png)
 
-## Install
+## Install (Please pay special attention to *number 6* below)
 
 1. *Click* on the installer file you just downloaded:
 
@@ -67,7 +69,7 @@ If you need to update your version, the easiest way is also on the Anaconda Prom
 
 ![text box with path for default Anaconda install and browse button ](../images/windows/anaconda/anaconda05.png)
 
-6. On the Advanced Installation Options page, select **both boxes**: "Add Anaconda to my PATH environment variable" and "Register Anaconda as my default Python". Then *click* `Next`: 
+6. ATTENTION! On the Advanced Installation Options page, select **BOTH boxes**: "Add Anaconda to my PATH environment variable" and "Register Anaconda as my default Python". Then *click* `Next`: 
 
 ![advanced installation options window. Has two check boxes: Add anaconda to PATH environment variables, and `Register Anaconda as my default Python`](../images/windows/anaconda/anaconda06.png)
 
@@ -111,7 +113,7 @@ Type `exit()` to leave python
  
 2. *Click* on the Python 3.+ button:
 
-![Anaconda download webpage with 3.6 button highlighted](../images/osx/anaconda/anaconda00.png)
+![Anaconda download webpage with 3.6 button highlighted](../images/osx/anaconda/condaosx1.png)
 
 3. You can ignore this. Just close this screen.
 
