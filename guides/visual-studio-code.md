@@ -22,17 +22,17 @@ For the Digital Humanities Research Institute, we use <insert software here> bec
 
 ### Step 1: <Insert Step 1 Header>
 
-<Each instruction step should follow this convention. A step should contain no more than one or two clicks/dragging files, or entering information into text boxes, unless there is, for example, a form where you may need to input multiple points of information in the same place.>
+<Each instruction step should follow this convention. A step images/should contain no more than one or two clicks/dragging files, or entering information into text boxes, unless there is, for example, a form where you may need to input multiple points of information in the same place.>
 
 <Include a screenshot for each step - see below for example of how to insert it. If there are more complicated things to do, consider making a GIF.>
 
-![Insert screenshot here and do not forget to add the alt-text in this location](../images/<filename.png>)
+![Insert screenshot here and do not forget to add the alt-text in this location](images/<filename.png>)
 
 ### Step 2: <Insert Step 2 Header>
 
 <Insert next step instructions in one (or if necessary, more) paragraphs.>
 
-<![Insert another screenshot here](../images/<filename.png>)>
+<![Insert another screenshot here](images/<filename.png>)>
 
 ### Step 3: <Insert Step 3 Header>
 
@@ -50,13 +50,13 @@ For the Digital Humanities Research Institute, we use <insert software here> bec
 
 <Include a screenshot for each step - see below for example of how to insert it. If there are more complicated things to do, consider making a GIF.>
 
-![Insert screenshot here and do not forget to add the alt-text in this location](../images/<filename.png>)
+![Insert screenshot here and do not forget to add the alt-text in this location](images/<filename.png>)
 
 ### Step 2: <Insert Step 2 Header>
 
 <Insert next step instructions in one (or if necessary, more) paragraphs.>
 
-<![Insert another screenshot here](../images/<filename.png>)>
+<![Insert another screenshot here](images/<filename.png>)>
 
 ### Step 3: <Insert Step 3 Header>
 
