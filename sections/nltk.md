@@ -5,16 +5,19 @@
 ## Checking if NLTK is already installed
 
 1. Open a [Windows](windows_terminal.md) or [OSX](osx_terminal.md) terminal and type `python` to launch a Python interpreter. You should get something like this:
-```python
+
+```pycon
 Python 3.6.5 |Anaconda, Inc.| (default, Apr 26 2018, 08:42:37) 
 [GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
 >>> 
 ```
+
 Alternatively, you can launch a [Jupyter Notebook](jupyter.md)
 
 2. Load NLTK by typing the following in your environment and *pressing* 'enter':
-```python
+
+```pycon
 Python 3.6.5 |Anaconda, Inc.| (default, Apr 26 2018, 08:42:37) 
 [GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
@@ -26,8 +29,8 @@ If this step fails, you need to follow the next step. If it is already installed
 ## Install NLTK
 1. Open a [Windows](windows_terminal.md) or [OSX](osx_terminal.md) terminal and type:
 
-```
-conda install nltk -y
+```bash
+$ conda install nltk -y
 ```
 
 2. The terminal should print something like the following:
@@ -55,8 +58,10 @@ Load the NLTK GUI download tool:
 ```python
 nltk.download()
 ```
+
 For example, the interpreter above would now look like:
-```python
+
+```pycon
 Python 3.6.5 |Anaconda, Inc.| (default, Apr 26 2018, 08:42:37) 
 [GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
@@ -68,6 +73,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 ![NLTK downloader interface with four tabs: collections, corpora, models, all packages. Click on the first (collections), and on the first entry on that tab: all. Then there's a download button on the left handside that needs to be pressed.](../images/windows/conda/nltk/nltk04.png)
 
 The Python environment that the GUI was launched from should now have a message that looks something like this:
+
 ```python
 showing info https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/index.xml
 ``` 
@@ -84,15 +90,19 @@ NLTK also provides a text based download tool.
 ```python
 nltk.download('all', halt_on_error=False
 ```
+
 For example, the interpreter above would now look like:
-```python
+
+```pycon
 Python 3.6.5 |Anaconda, Inc.| (default, Apr 26 2018, 08:42:37) 
 [GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
 >>> import nltk
 >>> nltk.download('all', halt_on_error=False)
 ```
+
 2. If the command is successful, the terminal will print out something like:
+
 ```python
 [nltk_data] Downloading collection 'all'
 [nltk_data]    | 
@@ -109,6 +119,7 @@ Out[2]: True
 ```
 
 ## Test Install
+
 When the installation is complete, close the NLTK Downloader and check your installation. You need to be in a Python environment such as an interpreter or Jupyter notebook.
 
 ### Brown
@@ -122,11 +133,13 @@ from nltk.corpus import brown
 If your code runs and nothing happens (no error message and nothing printed to the screen), congratulations! 
 
 ### Book
+
 Check that the books corpus installed properly by typing:
 
 ```python
 from nltk.book import *
 ```
+
 If installed successfully, you should see the following:
 
 ```python
@@ -146,12 +159,15 @@ text9: The Man Who Was Thursday by G . K . Chesterton 1908
 ```
 
 ### Penn Parts of speech
+
 Check that the parts of speech tagger is installed correctly by typing the following:
 
 ```python
 nltk.help.upenn_tagset('NN')
 ```
+
 If installed successfully, you should see the following:
+
 ```python
 NN: noun, common, singular or mass
     common-carrier cabbage knuckle-duster Casino afghan shed thermostat
