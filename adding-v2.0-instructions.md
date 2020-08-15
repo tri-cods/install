@@ -39,12 +39,12 @@ In this tutorial, we will use VS Code but if you prefer, you can use any other e
    
 3. Under the `## Why we use it` header, add a description that follows the format below:
 
-   > For the Digital Humanities Research Institute, we use <insert software here> because <insert reason why we use this software. If it is used instead of another one, explain why we have chosen this software.>
+   > For the Digital Humanities Research Institute, we use \<insert software here> because \<insert reason why we use this software. If it is used instead of another one, explain why we have chosen this software.>
    
 4. Under the two headings `## Installation instructions: macOS Catalina` and `## Installation instructions: Microsoft Windows 10` respectively, add installation instructions:
 
    - Each step should be added as a level 3 header (`###`) following this convention: `### Step 1: <Insert Step 1 Header>`
-   - Each instruction step should follow this convention. A step should contain no more than one or two clicks/dragging files, or entering information into text boxes, unless there is, for example, a form where you may need to input multiple points of information in the same place.
+   - Each instruction step should follow this convention: A step should contain no more than one or two clicks/dragging files, or entering information into text boxes, unless there is, for example, a form where you may need to input multiple points of information in the same place.
    - Include a screenshot for each step - see below for example of how to insert it. If there are more complicated things to do, consider making a GIF. Make sure screenshots are up to date and added inside the [`guides/images`](https://github.com/DHRI-Curriculum/install/tree/v2.0/guides/images) directory.
    
 (Each of the files with the installation instructions should already have a model of what the finished markdown should look like. If you have any questions, don't hesitate to reach out to [@kallewesterling](https://github.com/kallewesterling) to ask for further instructions.)
@@ -63,8 +63,8 @@ Once you are done with _all of the instructions you would like to add and have a
    <img src="adding-v2.0-instructions-images/vscode-version-control.png" alt="alt text" width="100px" />
 
 2. Hover over the instruction file you have added and all the screenshot files and press the `+` button to add the files to your commits. Once you press the `+` button, the file should move from the `Changes` section to the `Staged Changes` section. Once all your files are in the `Staged Changes` section, you are ready to move on.  
-   <img src="adding-v2.0-instructions-images/add-file-1.png" alt="alt text" width="200px" />  
-   <img src="adding-v2.0-instructions-images/add-file-2.png" alt="alt text" width="200px" />
+   <img src="adding-v2.0-instructions-images/add-file-1.png" alt="alt text" width="300px" />  
+   <img src="adding-v2.0-instructions-images/add-file-2.png" alt="alt text" width="290px" />
       
 3. In the `Message` box, type an instructive message, something along the lines of `Adding installation instructions` and then press the checkmark above the message box (<kbd>✓</kbd>). Alternatively, you can press <kbd>command</kbd> + <kbd>enter</kbd>.
    
@@ -80,7 +80,7 @@ Once you are done with _all of the instructions you would like to add and have a
    <img src="adding-v2.0-instructions-images/compare-branches.png" alt="alt text" width="300px" />
 
 3. On the `compare` side, you want to choose your own branch in the popup menu:   
-   <img src="adding-v2.0-instructions-images/choose-head-ref.png" alt="alt text" width="300px" />
+   <img src="adding-v2.0-instructions-images/choose-head-ref.png" alt="alt text" width="400px" />
 
 4. You should see a large, green button that says "Create pull request" and a green checkmark that says that you're able to merge:   
    <img src="adding-v2.0-instructions-images/able-to-merge.png" alt="alt text" width="400px" />
