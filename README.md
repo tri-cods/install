@@ -8,7 +8,7 @@ Below is a table listing each DHRI session—under the "Sessions" column—and i
 
 - [Visual Studio Code](guides/visual-studio-code.md)
 - [git](guides/git.md)
-- [Python](guides/python.md)
+- [Python (and Anaconda)](guides/python.md)
 - [NLTK](guides/nltk.md)
 - [Firefox](guides/firefox.md)
 <!--
