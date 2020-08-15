@@ -10,7 +10,7 @@ For the Digital Humanities Research Institute, we use the Visual Studio Code as 
 
 ## Installation instructions
 
-### Windows
+### Operating System: Windows
 
 #### Step 1: Download the file
 
@@ -20,13 +20,17 @@ Screenshot: ![installer shortcut - shaded blue box with ribbon logo. It has some
 
 #### Step 2: XYZ
 
+Next step instructions in one (or if necessary, more) paragraphs.
+
+Screenshot: ![another image here](../images/filename.png)
+
 #### Step 3: XYZ
 
 #### Step 4: XYZ
 
 #### Step 5: XYZ
 
-### macOS
+### Operating System: macOS
 
 #### Step 1: XYZ
 
