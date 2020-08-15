@@ -53,7 +53,7 @@ In this tutorial, we will use VS Code but if you prefer, you can use any other e
 
 Once you are done with _all of the instructions you would like to add and have added all your screenshots_, your VS Code should look something like this:
 
-<img src="adding-v2.0-instructions-images/file-structure.png" alt="alt text" width="500px" />
+<img src="adding-v2.0-instructions-images/file-structure.png" alt="alt text" width="300px" />
 
 ---
 
@@ -77,15 +77,15 @@ Once you are done with _all of the instructions you would like to add and have a
 1. Navigate to GitHub's [Compare changes](https://github.com/DHRI-Curriculum/install/compare/v2.0...master) page.
    
 2. Ensure that the `base` branch (the one you want to merge your changes _into_) is selected as `v2.0`:   
-   <img src="adding-v2.0-instructions-images/compare-branches.png" alt="alt text" width="300px" />
+   <img src="adding-v2.0-instructions-images/compare-branches.png" alt="alt text" width="500px" />
 
 3. On the `compare` side, you want to choose your own branch in the popup menu:   
-   <img src="adding-v2.0-instructions-images/choose-head-ref.png" alt="alt text" width="400px" />
+   <img src="adding-v2.0-instructions-images/choose-head-ref.png" alt="alt text" width="500px" />
 
 4. You should see a large, green button that says "Create pull request" and a green checkmark that says that you're able to merge:   
-   <img src="adding-v2.0-instructions-images/able-to-merge.png" alt="alt text" width="400px" />
+   <img src="adding-v2.0-instructions-images/able-to-merge.png" alt="alt text" width="500px" />
       
 5. Press the "Create pull request" button, and fill out the form that pops up with some important information. Then press the green "Create pull request" button at the bottom of the form.  
-   <img src="adding-v2.0-instructions-images/pull-request-form.png" alt="alt text" width="400px" />  
+   <img src="adding-v2.0-instructions-images/pull-request-form.png" alt="alt text" width="500px" />  
 
 You're done. Once someone gets around to it, your changes will be merged into the repository.
