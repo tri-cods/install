@@ -1,6 +1,6 @@
 # Python (and Anaconda)
 
-## Instructions (**Remove this section once you are done with your fil**)
+## Instructions (**Remove this section once you are done with your file**)
 
 (Copy over installation instructions from here: https://github.com/DHRI-Curriculum/install/blob/v2.0/sections/python.md into this file: https://github.com/DHRI-Curriculum/install/edit/v2.0/guides/python.md)
 
