@@ -5,7 +5,7 @@ _Check the links below for the content of courses and the installation instructi
 ## Table of Contents
 
 - [Visual Studio Code](guides/visual-studio-code.md)
-- [Git](guides/git.md)
+- [Git (and Git Bash)](guides/git.md)
 - [Python (and Anaconda)](guides/python.md)
 - [NLTK](guides/nltk.md)
 - [Firefox](guides/firefox.md)
