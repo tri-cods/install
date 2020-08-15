@@ -70,7 +70,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 
 2. Look for the NLTK download GUI - this will appear automatically but may appear hidden behind your browser window or behind where you are working in Python.
-![NLTK downloader interface with four tabs: collections, corpora, models, all packages. Click on the first (collections), and on the first entry on that tab: all. Then there's a download button on the left handside that needs to be pressed.](../images/windows/conda/nltk/nltk04.png)
+![NLTK downloader interface with four tabs: collections, corpora, models, all packages. Click on the first (collections), and on the first entry on that tab: all. Then there's a download button on the left handside that needs to be pressed.](images/windows/conda/nltk/nltk04.png)
 
 The Python environment that the GUI was launched from should now have a message that looks something like this:
 

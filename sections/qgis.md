@@ -8,7 +8,7 @@ Please note that in addition to QGIS, participants need to have a spreadsheet pr
 ## Download
 * Download __QGIS Version 3.10__ from https://qgis.org/en/site/forusers/download.html:
 
-![list of qgis download options](../images/osx/InstallQGIS.png)
+![list of qgis download options](images/osx/InstallQGIS.png)
 
 ## Windows Install:
 
@@ -25,11 +25,11 @@ Please note that in addition to QGIS, participants need to have a spreadsheet pr
 2. Follow the instructions provided by the installer you downloaded.  
 
 3. Note, you might receive the following error when you try to open QGIS for the first time:
-![error in QGIS](../images/osx/qgiserrormsg.png)
+![error in QGIS](images/osx/qgiserrormsg.png)
 
  In this case, you simply have to right click on the app and select the "Open" option:
  
- ![manually open QGIS](../images/osx/qgisopenapp.png)
+ ![manually open QGIS](images/osx/qgisopenapp.png)
  
 
 4. [Test install](#test-install)
@@ -40,7 +40,7 @@ You may need to change [security & privacy settings](https://support.apple.com/e
 ## Test Install
  Launch __QGIS 3.10. A new project will look like this:
 
-![qgis installer](../images/osx/newprojectQGIS.png)
+![qgis installer](images/osx/newprojectQGIS.png)
 
 Instructions are modified from [Michelle A. McSweeney](https://github.com/michellejm/Intro-QGIS-CUNY-FemSTEM/blob/master/Install-QGIS.md)
 
