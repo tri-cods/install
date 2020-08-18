@@ -44,7 +44,7 @@ Visit the [Firefox download page](https://www.mozilla.org/en-US/firefox/windows/
 
 Click the `Download Now` button. This will prompt a notification bar at the top or bottom of your screen with an option to open, run, or save the Firefox Installer file. 
 
-![Image showing the Firefox Installer download page for Windows](images/firefox02.png)
+![Image showing the Firefox Installer download page for Windows](images/firefox02.PNG)
 
 ### Step 3: Run Firefox Installer
 
@@ -56,13 +56,13 @@ Click on the `Run` or `Open` option in the notification bar to start the process
 
 A _User Account Control_ dialogue may open that asks you to allow the Firefox Installer to make changes to your device. Click `Yes` to start the installation.
 
-![Image showing the User Account Control dialogue](images/firefox04.png)
+![Image showing the User Account Control dialogue](images/firefox04.PNG)
 
 ### Step 5: Firefox Installation
 
 Wait for Firefox to finish installing.
 
-![Image showing the Firefox installer running](images/firefox05.png)
+![Image showing the Firefox installer running](images/firefox05.PNG)
 
 ### Step 6: Completing Firefox Installation
 
@@ -70,7 +70,7 @@ When the installation is complete, Firefox will open.
 
 Congratulations you have successfully installed Firefox! Double-click on the Firefox icon in your Desktop to begin browsing the web.
 
-![Image showing a fresh install of Firefox with options for further customization](images/firefox06.png)
+![Image showing a fresh install of Firefox with options for further customization](images/firefox06.PNG)
 
 
 
