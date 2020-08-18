@@ -24,13 +24,13 @@ Click on the `Download Firefox` button.
 
 ### Step 3: Move Firefox to the Applications folder
 
-Once the download has finished, the file should open by itself and pop open a Finder window containing the Firefox application. Drag the Firefox Icon on top of the Applications folder in order to copy it there. This action will begin the installation, which should only take a few seconds to complete.
+Once the download has finished, the file should open by itself and pop open a Finder window containing the Firefox application. Drag the Firefox icon on top of the Applications folder in order to copy it there. This action will begin the installation, which should only take a few seconds to complete.
 
 <![Image showing how to drag Firefox and drop it in Applications folder](images/firefox_mac_03.png)
 
 ### Step 4: Eject the Firefox installation file
 
-After dragging the Firefox app to the Applications folder, go back to the desktop screen, put the mouse cover over the Firefox icon, and click while holding down the `control` key on your keyboard. Then select the `Eject Firefox` option.
+After dragging the Firefox app to the Applications folder, go back to the desktop screen, move the mouse cursor over the Firefox icon, and click it while holding down the `control` key on your keyboard. Then select the `Eject Firefox` option.
 
 <![Image showing how to eject the Firefox installation file](images/firefox_mac_04.png)
 
