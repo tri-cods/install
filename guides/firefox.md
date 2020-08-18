@@ -38,7 +38,7 @@ For the Digital Humanities Research Institute, we use Firefox because it works o
 
 Visit the [Firefox download page](https://www.mozilla.org/en-US/firefox/windows/?utm_medium=referral&utm_source=support.mozilla.org) in your pre-installed browser, such Internet Explorer or Edge.
 
-![Insert screenshot here and do not forget to add the alt-text in this location](images/<firefox1.png>)
+![Image showing the Firefox downloade page for Windows](images/<firefox01.png>)
 
 ### Step 2: Download Firefox Installer
 
