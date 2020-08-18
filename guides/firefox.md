@@ -14,37 +14,37 @@ For the Digital Humanities Research Institute, we use Firefox because it works o
 
 Visit the [Firefox download page](https://www.mozilla.org/en-US/firefox/new/?utm_medium=referral&utm_source=support.mozilla.org) in your pre-installed browser, such as Safari.
 
-![Image showing the Firefox download page for Safari](images/firefox1.png)
+![Image showing the Firefox download page for Mac](images/firefox_mac_01.png)
 
 ### Step 2: <Insert Step 2 Header>
 
 Click on the `Download Firefox` button.
 
-<![Insert another screenshot here](images/filename.png)
+<![Image showing where to click to download Firefox](images/firefox_mac_02.png)
 
 ### Step 3: <Insert Step 3 Header>
 
 Once the download has finished, the file should open by itself and pop open a Finder window containing the Firefox application. Drag the Firefox Icon on top of the Applications folder in order to copy it there. This action will begin the installation, which should only take a few seconds to complete.
 
-<![Insert another screenshot here](images/filename.png)
+<![Image showing how to drag Firefox and drop it in Applications folder](images/firefox_mac_03.png)
 
 ### Step 4: <Insert Header>
 
 After dragging the Firefox app to the Applications folder, go back to the desktop screen, put the mouse cover over the Firefox icon, and click while holding down the `control` key on your keyboard. Then select the `Eject Firefox` option.
 
-<![Insert another screenshot here](images/filename.png)
+<![Image showing how to eject the Firefox installation file](images/firefox_mac_04.png)
 
 ### Step 5: <Insert Header>
 
 You can now start Firefox by double-clicking on it in the Applications folder. The first time you open Firefox, you should receive a dialogue box that asks you if you are sure you would like to open Firefox. Here you should click `Open`. 
 
-<![Insert another screenshot here](images/filename.png)
+<![Image showing the dialogue box that opens only on the first time starting Firefox](images/firefox_mac_05.png)
 
 ### Step 6: <Header>
 
 Firefox will now automatically open. Congratulations you have completed installing Firefox!
 
-<![Insert another screenshot here](images/filename.png)
+<![Image showing a fresh install of Firefox](images/firefox_mac_06.png)
 
 ---
 
@@ -86,7 +86,7 @@ When the installation is complete, Firefox will open.
 
 Congratulations you have successfully installed Firefox! 
 
-![Image showing a fresh install of Firefox with options for further customization](images/firefox06.PNG)
+![Image showing a fresh install of Firefox](images/firefox06.PNG)
 
 
 
