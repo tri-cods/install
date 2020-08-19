@@ -28,6 +28,8 @@ After the download has completed, double click on the file called `VSCode-darwin
 
 Drag the Visual Studio Code application (it will have a blue logo next to it) from your Downloads folder to Applications folder.
 
+![Insert screenshot here and do not forget to add the alt-text in this location](images/vscode_mac_3.png)
+
 ### Step 4
 
 Double click the Visual Studio Code application in your Applications folder. The first time you open Visual Studio Code, you should receive a dialogue box that asks you if you are sure you would like to open it. Here you should click `Open`. 
