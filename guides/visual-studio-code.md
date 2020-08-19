@@ -68,58 +68,58 @@ Visit the [Visual Studio Code website](https://code.visualstudio.com/) on your i
 
 Double click on the Visual Studio Code installer in your downloads folder
 
-![Insert another screenshot here](images/vscode2.png)
+![Screenshot of Visual Studio Code setup icon](images/vscode2.png)
 
 ### Step 3: Walking Through Visual Studio Code Installer I
 
 Click `Next` when the Visual Code setup window opens.
 
-![Insert another screenshot here](images/vscode3.png)
+![Screenshot of Visual Studio Code installation options for starting the install](images/vscode3.png)
 
 ### Step 4: Walking Through Visual Studio Code Installer II
 
 Accept the license agreement by selecting the first radio button. Then click `next`.
 
-![Insert another screenshot here](images/vscode4.png)
+![Screenshot of Visual Studio Code license agreement](images/vscode4.png)
 
 ### Step 5: Walking Through Visual Studio Code Installer III
 
 Choose the folder on the computer that VSCode should be installed in (the default is usually fine). Then click `Next`.
 
-![Insert another screenshot here](images/vscode5.png)
+![Screenshot of Visual Studio Code installation process where we select the folder to install in](images/vscode5.png)
 
 ### Step 6: Walking Through Visual Studio Code Installer IV
 
 Choose the folder in the start menu that VSCode should be installed in. Check the other boxes at your own discretion. Then click `Next`.
 
-![Insert another screenshot here](images/vscode6.png)
+![Screenshot of Visual Studio Code installation process where we select start menu folder](images/vscode6.png)
 
 ### Step 7: Walking Through Visual Studio Code Installer V
 
 Please check the box that says `Add to PATH`. Then click `Next`.
 
-![Insert another screenshot here](images/vscode7.png)
+![Screenshot of Visual Studio Code installation Add to PATH option](images/vscode7.png)
 
 ### Step 8: Walking Through Visual Studio Code Installer VI
 
 You should see a window listing the configurations you chose in the previous steps. If they are incorrect, click `Back` and redo the previous steps. If they are correct, click `Install`.
 
-![Insert another screenshot here](images/vscode8.png)
+![Screenshot of Visual Studio Code installation confirmation](images/vscode8.png)
 
 ### Step 9: Walking Through Visual Studio Code Installer VII
 
 Sit back and relax because the install will take a while. You should see a window with a progress bar similar to this.
 
-![Insert another screenshot here](images/vscode9.png)
+![Screenshot of Visual Studio Code installation completion bar](images/vscode9.png)
 
 ### Step 10: Walking Through Visual Studio Code Installer VIII
 
 Check the `Launch Visual Studio Code` checkbox and then click `Next`.
 
-![Insert another screenshot here](images/vscode10.png)
+![Screenshot of Visual Studio Code installation final step](images/vscode10.png)
 
 ### Step 11: Complete
 
 Congratulations Visual Studio Code is now installed! You should see something similar to this window when you launch Visual Studio Code.
 
-![Insert another screenshot here](images/vscode11.png)
+![Screenshot of Visual Studio Code running successfully](images/vscode11.png)
