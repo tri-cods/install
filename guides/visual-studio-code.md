@@ -84,13 +84,13 @@ Accept the license agreement by selecting the first radio button. Then click `ne
 
 ### Step 5: Walking Through Visual Studio Code Installer III
 
-Choose the folder on the computer that VSCode should be installed in (the default is usually fine). Then click `Next`.
+Choose the folder on the computer that Visual Studio Code should be installed in (the default is usually fine). Then click `Next`.
 
 ![Screenshot of Visual Studio Code installation process where we select the folder to install in](images/vscode5.png)
 
 ### Step 6: Walking Through Visual Studio Code Installer IV
 
-Choose the folder in the start menu that VSCode should be installed in. Check the other boxes at your own discretion. Then click `Next`.
+Choose the folder in the start menu that Visual Studio Code should be installed in. Check the other boxes at your own discretion. Then click `Next`.
 
 ![Screenshot of Visual Studio Code installation process where we select start menu folder](images/vscode6.png)
 
