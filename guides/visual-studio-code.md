@@ -1,11 +1,5 @@
 # Microsoft Visual Studio Code
 
-## Instructions (**Remove this section once you are done with your file**)
-
-(Copy over installation instructions from here: https://github.com/DHRI-Curriculum/install/blob/v2.0/sections/vscode.md into this file: https://github.com/DHRI-Curriculum/install/edit/v2.0/guides/visual-studio-code.md)
-
-Follow this format:
-
 ## What it is
 
 Visual Studio Code is a text editor that allows us to write code in a variety of computational languages such as python, HTML, javascript, among others.
@@ -33,8 +27,6 @@ After the download has completed, double click on the file called `VSCode-darwin
 ### Step 3: <Insert Step 3 Header>
 
 Drag the Visual Studio Code application (it will have a blue logo next to it) from your Downloads folder to Applications folder.
-
-![Insert screenshot here and do not forget to add the alt-text in this location](images/vscode_mac_3.png)
 
 ### Step 4
 
