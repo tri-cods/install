@@ -22,33 +22,43 @@ For the Digital Humanities Research Institute, we use Visual Studio Code because
 
 Visit the [Visual Studio Code website](https://code.visualstudio.com/) on your internet browser, such as Firefox or Safari, and click `Download for Mac`. Then click `Save File` in the dialogue box that asks if you would like to save the file
 
-![Insert screenshot here and do not forget to add the alt-text in this location](images/<filename.png>)
+![Insert screenshot here and do not forget to add the alt-text in this location](images/vscode_mac_1.png)
 
 ### Step 2: <Insert Step 2 Header>
 
 After the download has completed, double click on the file called `VSCode-darwin-stable.zip` in your Downloads folder. 
 
-<![Insert another screenshot here](images/<filename.png>)>
+![Insert screenshot here and do not forget to add the alt-text in this location](images/vscode_mac_2.png)
 
 ### Step 3: <Insert Step 3 Header>
 
 Drag the Visual Studio Code application (it will have a blue logo next to it) from your Downloads folder to Applications folder.
 
+![Insert screenshot here and do not forget to add the alt-text in this location](images/vscode_mac_3.png)
+
 ### Step 4
 
-Double click the Visual Studio Code application in your Applications folder. The first time you open Firefox, you should receive a dialogue box that asks you if you are sure you would like to open Firefox. Here you should click `Open`. 
+Double click the Visual Studio Code application in your Applications folder. The first time you open Visual Studio Code, you should receive a dialogue box that asks you if you are sure you would like to open it. Here you should click `Open`. 
+
+![Insert screenshot here and do not forget to add the alt-text in this location](images/vscode_mac_4.png)
 
 ### Step 5
 
 Navigate to the `View` option in the topmost menu and click `Command Palette`. This will make a text bar appear.
 
+![Insert screenshot here and do not forget to add the alt-text in this location](images/vscode_mac_5.png)
+
 ### Step 6
 
-Type shell into the text bar that appears. Then choose `Shell Command: Install code command in PATH`. Click `OK` on the dialogue box that appears saying "Code will now prompt with 'osascript' for Administrator privileges to install the shell command." You may also be asked to provide the password to your computer at this stage.
+Type "shell" into the text bar that appears. Then choose `Shell Command: Install code command in PATH`. Click `OK` on the dialogue box that appears saying "Code will now prompt with 'osascript' for Administrator privileges to install the shell command." You may also be asked to provide the password to your computer at this stage.
+
+![Insert screenshot here and do not forget to add the alt-text in this location](images/vscode_mac_6.png)
 
 ### Step 7
 
 Congratulations, Visual Studio Code is now installed in your computer!
+
+![Insert screenshot here and do not forget to add the alt-text in this location](images/vscode_mac_7.png)
 
 ---
 
