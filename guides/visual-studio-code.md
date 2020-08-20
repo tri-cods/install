@@ -1,63 +1,125 @@
 # Microsoft Visual Studio Code
 
-## Instructions (**Remove this section once you are done with your file**)
-
-(Copy over installation instructions from here: https://github.com/DHRI-Curriculum/install/blob/v2.0/sections/vscode.md into this file: https://github.com/DHRI-Curriculum/install/edit/v2.0/guides/visual-studio-code.md)
-
-Follow this format:
-
 ## What it is
 
-<Describe the software that this guide will install. Be specific as we consider following installation instructions to be part of the foundational skills that learners will aquire in the DHRI.>
+Visual Studio Code is a text editor that allows us to write code in a variety of computational languages such as python, HTML, javascript, among others.
 
 ## Why we use it
 
-For the Digital Humanities Research Institute, we use <insert software here> because <insert reason why we use this software. If it is used instead of another one, explain why we have chosen this software.>
+For the Digital Humanities Research Institute, we use Visual Studio Code because it supports [syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting), it is free and built on open source, and it is consistent across Mac, Windows, and Linux systems.
 
 ---
 
 ## Installation instructions: macOS Catalina
 
-<Insert optional introductory paragraph here, where you have the option of describing other operating systems that your instructions likely work for (perhaps other versions of macOS) and also linking out to good troubleshooting websites.>
+### Step 1: Download Visual Studio Code Installer
 
-### Step 1: <Insert Step 1 Header>
+Visit the [Visual Studio Code website](https://code.visualstudio.com/) on your internet browser, such as Firefox or Safari, and click `Download for Mac`. Then click `Save File` in the dialogue box that asks if you would like to save the file
 
-<Each instruction step should follow this convention. A step images/should contain no more than one or two clicks/dragging files, or entering information into text boxes, unless there is, for example, a form where you may need to input multiple points of information in the same place.>
+![Screenshot showing the Visual Studio Code website with the link to download for Mac](images/vscode_mac_1.png)
 
-<Include a screenshot for each step - see below for example of how to insert it. If there are more complicated things to do, consider making a GIF.>
+### Step 2: Run Visual Studio Code Installer
 
-![Insert screenshot here and do not forget to add the alt-text in this location](images/<filename.png>)
+After the download has completed, double click on the file called `VSCode-darwin-stable.zip` in your Downloads folder. 
 
-### Step 2: <Insert Step 2 Header>
+![Screenshot showing Visual Studio Code installer in the Downloads folder](images/vscode_mac_2.png)
 
-<Insert next step instructions in one (or if necessary, more) paragraphs.>
+### Step 3: Move Visual Studio Code to Applications Folder
 
-<![Insert another screenshot here](images/<filename.png>)>
+Drag the Visual Studio Code application (it will have a blue logo next to it) from your Downloads folder to Applications folder.
 
-### Step 3: <Insert Step 3 Header>
+![Screenshot showing Visual Studio Code application being moved from the Downloads folder to the Applications folder](images/vscode_mac_3.png)
 
-<...and so on...>
+### Step 4: Start Visual Studio Code application
+
+Double click the Visual Studio Code application in your Applications folder. The first time you open Visual Studio Code, you should receive a dialogue box that asks you if you are sure you would like to open it. Here you should click `Open`. 
+
+![Screenshot showing Visual Studio Code in the Applications folder with a dialogue box asking if the app should be opened](images/vscode_mac_4.png)
+
+### Step 5: Configure Visual Studio Code I
+
+Navigate to the `View` option in the topmost menu and click `Command Palette`. This will make a text bar appear.
+
+![Screenshot of Visual Studio Code's "View" menu option with the Command Palette highlighted](images/vscode_mac_5.png)
+
+### Step 6: Configure Visual Studio Code II
+
+Type "shell" into the text bar that appears. Then choose `Shell Command: Install code command in PATH`. Click `OK` on the dialogue box that appears saying "Code will now prompt with 'osascript' for Administrator privileges to install the shell command." You may also be asked to provide the password to your computer at this stage.
+
+![Screenshot showing textbox with "shell" typed in and the "Shell Command: Install 'code' command in PATH" option highlighted](images/vscode_mac_6.png)
+
+### Step 7: Complete
+
+Congratulations, Visual Studio Code is now installed in your computer!
+
+![Screeshot showing Visual Studio Code running successfully](images/vscode_mac_7.png)
 
 ---
 
 ## Installation instructions: Microsoft Windows 10
 
-<Insert optional introductory paragraph here, where you have the option of describing other operating systems that your instructions likely work for (perhaps other versions of Microsoft Windows) and also linking out to good troubleshooting websites.>
+### Step 1: Download Visual Studio Code Installer
 
-### Step 1: <Insert Step 1 Header>
+Visit the [Visual Studio Code website](https://code.visualstudio.com/) on your internet browser, such as Firefox, Edge, or Internet Explorer, and click `Download for Windows`. Then click `Save File` in the dialogue box that asks if you would like to save the file
 
-<Each instruction step should follow this convention. A step should contain no more than one or two clicks/dragging files, or entering information into text boxes, unless there is, for example, a form where you may need to input multiple points of information in the same place.>
+![Screenshot showing the Visual Studio Code website with the link to download for Windows](images/vscode1.png) 
 
-<Include a screenshot for each step - see below for example of how to insert it. If there are more complicated things to do, consider making a GIF.>
+### Step 2: Run Visual Code Installer
 
-![Insert screenshot here and do not forget to add the alt-text in this location](images/<filename.png>)
+Double click on the Visual Studio Code installer in your downloads folder
 
-### Step 2: <Insert Step 2 Header>
+![Screenshot of Visual Studio Code setup icon](images/vscode2.png)
 
-<Insert next step instructions in one (or if necessary, more) paragraphs.>
+### Step 3: Walking Through Visual Studio Code Installer I
 
-<![Insert another screenshot here](images/<filename.png>)>
+Click `Next` when the Visual Code setup window opens.
 
-### Step 3: <Insert Step 3 Header>
+![Screenshot of Visual Studio Code installation options for starting the install](images/vscode3.png)
 
-<...and so on...>
+### Step 4: Walking Through Visual Studio Code Installer II
+
+Accept the license agreement by selecting the first radio button. Then click `next`.
+
+![Screenshot of Visual Studio Code license agreement](images/vscode4.png)
+
+### Step 5: Walking Through Visual Studio Code Installer III
+
+Choose the folder on the computer that Visual Studio Code should be installed in (the default is usually fine). Then click `Next`.
+
+![Screenshot of Visual Studio Code installation process where we select the folder to install in](images/vscode5.png)
+
+### Step 6: Walking Through Visual Studio Code Installer IV
+
+Choose the folder in the start menu that Visual Studio Code should be installed in. Check the other boxes at your own discretion. Then click `Next`.
+
+![Screenshot of Visual Studio Code installation process where we select start menu folder](images/vscode6.png)
+
+### Step 7: Walking Through Visual Studio Code Installer V
+
+Please check the box that says `Add to PATH`. Then click `Next`.
+
+![Screenshot of Visual Studio Code installation Add to PATH option](images/vscode7.png)
+
+### Step 8: Walking Through Visual Studio Code Installer VI
+
+You should see a window listing the configurations you chose in the previous steps. If they are incorrect, click `Back` and redo the previous steps. If they are correct, click `Install`.
+
+![Screenshot of Visual Studio Code installation confirmation](images/vscode8.png)
+
+### Step 9: Walking Through Visual Studio Code Installer VII
+
+Sit back and relax because the install will take a while. You should see a window with a progress bar similar to this.
+
+![Screenshot of Visual Studio Code installation completion bar](images/vscode9.png)
+
+### Step 10: Walking Through Visual Studio Code Installer VIII
+
+Check the `Launch Visual Studio Code` checkbox and then click `Next`.
+
+![Screenshot of Visual Studio Code installation final step](images/vscode10.png)
+
+### Step 11: Complete
+
+Congratulations Visual Studio Code is now installed! You should see something similar to this window when you launch Visual Studio Code.
+
+![Screenshot of Visual Studio Code running successfully](images/vscode11.png)
