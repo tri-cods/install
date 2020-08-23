@@ -1,63 +1,186 @@
 # Python (and Anaconda)
 
-## Instructions (**Remove this section once you are done with your file**)
-
-(Copy over installation instructions from here: https://github.com/DHRI-Curriculum/install/blob/v2.0/sections/python.md into this file: https://github.com/DHRI-Curriculum/install/edit/v2.0/guides/python.md)
-
-Follow this format:
-
 ## What it is
 
-<Describe the software that this guide will install. Be specific as we consider following installation instructions to be part of the foundational skills that learners will aquire in the DHRI.>
+ [Anaconda](https://www.anaconda.com/download/) is a distribution of Python. It provides a Python programming environment, the Jupyter notebook environment, and the conda package management system. 
 
 ## Why we use it
 
-For the Digital Humanities Research Institute, we use <insert software here> because <insert reason why we use this software. If it is used instead of another one, explain why we have chosen this software.>
+For the Digital Humanities Research Institute, we are choosing to use and download Anaconda as it allow us to get all the required software for this institute (python, conda, and the Jupyter notebook environment) in a single download. Anaconda also includes many useful packages for machine learning, and data analysis that will be helpful should you choose to go further in your Python journey!. 
+
+## Before we begin...
+
+Let's check if you have Anaconda already installed on your computer.
+
+* Try to open the Anaconda Prompt (On Mac, press Cmd + Space and type `Anaconda`. On Windows, press the Windows key and type Anaconda). If no option comes up, you most likely don't have it installed.
+
+If you don't have Anaconda installed on your computer, you can follow either the macOS Catalina or Windows instructions. If you do have Anaconda and only need to update Anaconda to the newest version for this workshop, you can skip to the section that is titled [`Updating Anaconda (Mac or Windows)`](##Updating-Anaconda)
 
 ---
 
-## Installation instructions: macOS Catalina
+## Installation instructions: macOS Catalina 
 
-<Insert optional introductory paragraph here, where you have the option of describing other operating systems that your instructions likely work for (perhaps other versions of macOS) and also linking out to good troubleshooting websites.>
+While the installation instructions below is for macOS Catalina (10.15), this installation instruction should work for older macOS version. Older macOS versions (10.13 (High Sierra) to 10.14 (Mojave)) can also skip `Step 3` in the installation process. For older version, please check out the [Anaconda documentation](https://docs.anaconda.com/anaconda/install/#old-os). You can check your macOS version by clicking the "apple" icon on the upper-left corner of your menu bar and choose `About This Mac`. You should see the macOS name followed by the version number. Should you run into any trouble, you can also find solution to common installation issues [here](https://docs.anaconda.com/anaconda/user-guide/troubleshooting/).
+ 
+### Step 1: Download Python 3.+
 
-### Step 1: <Insert Step 1 Header>
+Visit the [Anaconda website](https://www.anaconda.com/download/) on your internet browser, such as Firefox or Chrome, and click on the Python 3.+ version button. Our screenshot below shows python 3.7, but any latest **python 3.+** version will work with our instructions and the institute.
 
-<Each instruction step should follow this convention. A step should contain no more than one or two clicks/dragging files, or entering information into text boxes, unless there is, for example, a form where you may need to input multiple points of information in the same place.>
+![Screenshot: Anaconda download webpage with 3.7 button highlighted](/guides/images/condaosx1.png)
 
-<Include a screenshot for each step - see below for example of how to insert it. If there are more complicated things to do, consider making a GIF.>
+You can ignore this. Just close this screen.
 
-![Insert screenshot here and do not forget to add the alt-text in this location](images/<filename.png>)
+![Screenshot: Anaconda thank you image](/guides/images/anaconda01.png)
 
-### Step 2: <Insert Step 2 Header>
+You can either let your browser open with the Installer, or save it and open it yourself.
 
-<Insert next step instructions in one (or if necessary, more) paragraphs.>
+### Step 2: Run Anaconda Installer
 
-<![Insert another screenshot here](images/<filename.png>)>
+After the download has completed, if it doesn't open automatically, double-click on the installer file you just saved on your computer. *Click* `Continue`:
 
-### Step 3: <Insert Step 3 Header>
+![Screenshot: Anaconda installer: security image](/guides/images/anaconda02-5.png)
 
-<...and so on...>
+You should then see the initial install screen. *Click* `Continue`:
+ 
+ ![Screenshot: initial installation image](/guides/images/anaconda03.png)
+
+*Click* `Continue` again:
+
+![Screenshot: software licence agreement image](/guides/images/anaconda04.png)
+
+Accept the license by *clicking* `I Agree`:
+ 
+![Screenshot: licence agreement](/guides/images/anaconda05.png)
+
+*Click* `Install`. Only change the install location if you know what you are doing:
+
+![Screenshot: standard install on macintosh](/guides/images/anaconda06.png)
+
+*Click* `Install Microsoft VSCode`. If it is already installed, *click* `Continue`:
+
+![Screenshot: menu option to also install vscode](/guides/images/anaconda8.png)
+
+This is the final installation window. Just *Click* `Close`:
+
+![Screenshot: final installation window for anaconda](/guides/images/anaconda09.png)
+
+You can move the installer to the Trash to save space on your Hard Drive by *clicking* `Move to Trash`:
+
+![Screenshot: move to trash image](/guides/images/anaconda10.png)
+
+### Step 3: Run conda from your terminal
+
+Open your OS/X terminal. You can find your terminal by *clicking* the "magnifying glass" icon (also known as `Spotlight`) on the upper-right hand corner of your menubar. Type `Terminal` in `Spotlight` and press the `Enter` key on your keyboard. In your terminal, run the following:
+
+```console
+cd ~
+bash
+source .bash_profile
+conda init zsh
+```
+
+### Step 4: Check if Anaconda and Python are successfully installed
+
+Open the OS/X terminal. You can find your terminal by *clicking* the "magnifying glass" icon (also known as `Spotlight`) on the upper-right hand corner of your menubar. Type `Terminal` in `Spotlight` and press the `Enter` key on your keyboard. In your terminal, type `python` and press `Enter`. The terminal should print something like:
+
+    ```python
+    Python 3.6.3 |Anaconda, Inc.| (default, Dec  5 2017, 17:30:25) 
+    [GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final)] on darwin
+    Type "help", "copyright", "credits" or "license" for more information.
+    >>> 
+    ```
+
+Type `exit()` to leave python
 
 ---
 
 ## Installation instructions: Microsoft Windows 10
 
-<Insert optional introductory paragraph here, where you have the option of describing other operating systems that your instructions likely work for (perhaps other versions of Microsoft Windows) and also linking out to good troubleshooting websites.>
+While the installation instructions below is for Windows 10, this installation instruction should work for Windows 8 as well. For older version, please check out the [Anaconda documentation](https://docs.anaconda.com/anaconda/install/#old-os). Should you run into any trouble, you can also find solution to common installation issues [here](https://docs.anaconda.com/anaconda/user-guide/troubleshooting/).
 
-### Step 1: <Insert Step 1 Header>
+### Step 1: Download Python 3.+:
 
-<Each instruction step should follow this convention. A step should contain no more than one or two clicks/dragging files, or entering information into text boxes, unless there is, for example, a form where you may need to input multiple points of information in the same place.>
+We **strongly** recommend that you follow the screens below step by step. Paying particular attention to Step 3 in the installation process.
 
-<Include a screenshot for each step - see below for example of how to insert it. If there are more complicated things to do, consider making a GIF.>
+Visit the [Anaconda website](https://www.anaconda.com/download/) on your internet browser, such as Firefox or Chrome, and click on the Python 3.+ version button. Our screenshot below shows python 3.7, but any latest **python 3.+** version will work with our instructions and the institute.
 
-![Insert screenshot here and do not forget to add the alt-text in this location](images/<filename.png>)
+![Screenshot: Anaconda download webpage with 3.7 button highlighted](/guides/images/anaconda00w.png)
 
-### Step 2: <Insert Step 2 Header>
+You can ignore this. Just close this screen and wait for your donwload to finish.
 
-<Insert next step instructions in one (or if necessary, more) paragraphs.>
+![Screenshot: Anaconda thank you for downloading](/guides/images/anaconda01w.png)
 
-<![Insert another screenshot here](images/<filename.png>)>
+### Step 2: Run Anaconda Installer
 
-### Step 3: <Insert Step 3 Header>
+After the download has completed, if it doesn't open automatically, double-click on the installer file you just saved on your computer. *Click* `Continue`:
+ 
+ ![Screenshot: initial installation setup image](/guides/images/anaconda02w.png)
 
-<...and so on...>
+Accept the license by *clicking* `I Agree`:
+ 
+![Screenshot: installation licence agreement](/guides/images/anaconda03w.png)
+
+Install Anaconda only for yourself by choosing the just for me radio button. *Click* `Next`:
+
+![Screenshot: radio menu, select the 1st "just me" option](/guides/images/anaconda04w.png)
+
+Choose the location to install anaconda (the default is fine). *Click* `Next`:
+
+![Screenshot: text box with path for default Anaconda install and browse button ](/guides/images/anaconda05w.png)
+
+### Step 3: Run Anaconda Installer Part 2: BE CAREFUL WITH THIS OPTION!
+
+On the Advanced Installation Options page, select **BOTH boxes**: "Add Anaconda to my PATH environment variable" and "Register Anaconda as my default Python". Then *click* `Next`: 
+
+![Screenshot: advanced installation options window. Has two check boxes: Add anaconda to PATH environment variables, and `Register Anaconda as my default Python`](/guides/images/anaconda06w.png)
+
+The installation may take a while, so go grab a snack or check your email: 
+
+When installation is completed, the window will list the location of the Anaconda installer. *Click* `Next`:
+
+![Screenshot: Full progress bar and printed output listing location of Anaconda files](/guides/images/anaconda07w.png)
+
+*Click* `Install Microsoft VSCode`. If it is already installed, *click* `Skip`:
+
+![Screenshot: menu option to also install vscode](/guides/images/anaconda08w.png)
+
+This is the final window. You can uncheck all the boxes and *Click* `Finish`:
+
+![Screenshot: final installation window for anaconda, has two check boxes: learn more and learn how to get started](/guides/images/anaconda09w.png)
+
+### Step 4: Check if Anaconda and Python are successfully installed
+
+Open a Windows terminal. You can open the terminal by pressing `Windows + R` to open the `Run` box. Type `cmd` and then click `OK` to open the Command Prompt. Once it is open, type `python` and press `Enter` on your keyboard. The terminal should print something like:
+
+    ```python
+    Python 3.6.5 |Anaconda, Inc.| (default, Mar 29 2018, 13:32:41) [MSC v.1900 64 bit (AMD64)] on win32
+    Type "help", "copyright", "credits" or "license" for more information.
+    >>> 
+    ```
+
+Type `exit()` to leave python
+
+---  
+
+## Updating Anaconda (Mac or Windows)
+
+If you have Anaconda installed, chances are that you need to update to the most recent version. So let's go ahead and do it.
+
+First, let's check the most recent version of Anaconda available. Go to the [Anaconda Download Page](https://www.anaconda.com/download/). 
+
+Under "Download Anaconda Distribution" you should be able to see the current version.
+
+Now it is time to check what version you have installed in your computer. Open the `Anaconda Prompt` (On Mac, open `Spotlight` (click the "magnifying glass" icon on the upper-right hand corner of your menubar) and type `Anaconda`. On Windows, press the Windows key and type Anaconda), type `conda --version` and press enter. If the output has the same version as the one on the website, you are good to go!
+
+If you need to update your version, the easiest way is also through the Anaconda Prompt:
+
+### Step 1: Update root version of Anaconda
+* Type `conda update -n root conda` and press Enter.
+* Type Y for yes and press Enter when asked.
+* Wait for the process to finish. It takes some time.
+
+### Step 2: Update all packages in Anaconda
+* When the process finishes, type `conda update --all` and press Enter
+* Type Y for yes and press enter when asked.
+* Wait for the process to finish. This should take even longer, so go grab a cup of coffee.
+* After the update is complete, type `conda --version` and press Enter. The output should be the same version as the one in the webpage.
