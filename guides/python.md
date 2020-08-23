@@ -14,7 +14,7 @@ Let's check if you have Anaconda already installed on your computer.
 
 * Try to open the Anaconda Prompt (On Mac, press Cmd + Space and type `Anaconda`. On Windows, press the Windows key and type Anaconda). If no option comes up, you most likely don't have it installed.
 
-If you don't have Anaconda installed on your computer, you can follow either the macOS Catalina or Windows instructions. If you do have Anaconda and only need to update Anaconda to the newest version for this workshop, you can skip to the section that is titled [`Updating Anaconda (Mac or Windows)`](##Updating-Anaconda)
+If you don't have Anaconda installed on your computer, you can follow either the macOS Catalina or Windows instructions. If you do have Anaconda and only need to update Anaconda to the newest version for this workshop, you can skip to the section that is titled [`Updating Anaconda (Mac or Windows)`](https://github.com/DHRI-Curriculum/install/blob/di-installation-instructions/guides/python.md#updating-anaconda-mac-or-windows)
 
 ---
 
