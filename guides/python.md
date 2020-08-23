@@ -12,9 +12,9 @@ For the Digital Humanities Research Institute, we are choosing to use and downlo
 
 Let's check if you have Anaconda already installed on your computer.
 
-* Try to open the Anaconda Prompt (On Mac, press Cmd + Space and type `Anaconda`. On Windows, press the Windows key and type Anaconda). If no option comes up, you most likely don't have it installed.
+* Try to open the Anaconda Prompt (On Mac, *Click* on the "magnifying glass" icon (also known as `Spotlight`) on the upper-right hand corner of your menubar and type `Anaconda`. On Windows, press the Windows key and type Anaconda). If no option comes up, you most likely don't have it installed.
 
-If you don't have Anaconda installed on your computer, you can follow either the macOS Catalina or Windows instructions. If you do have Anaconda and only need to update Anaconda to the newest version for this workshop, you can skip to the section that is titled [`Updating Anaconda (Mac or Windows)`](https://github.com/DHRI-Curriculum/install/blob/di-installation-instructions/guides/python.md#updating-anaconda-mac-or-windows)
+If you don't have Anaconda installed on your computer, you can follow either the macOS Catalina or Windows instructions. If you do have Anaconda and only need to update Anaconda to the newest version for this workshop, you can skip to the section that titled [Updating Anaconda (Mac or Windows)](https://github.com/DHRI-Curriculum/install/blob/di-installation-instructions/guides/python.md#updating-anaconda-mac-or-windows)
 
 ---
 
@@ -70,7 +70,7 @@ You can move the installer to the Trash to save space on your Hard Drive by *cli
 
 ### Step 3: Run conda from your terminal
 
-Open your OS/X terminal. You can find your terminal by *clicking* the "magnifying glass" icon (also known as `Spotlight`) on the upper-right hand corner of your menubar. Type `Terminal` in `Spotlight` and press the `Enter` key on your keyboard. In your terminal, run the following:
+Open your OS/X terminal. You can find your terminal by *clicking* the "magnifying glass" icon (also known as `Spotlight`) on the upper-right hand corner of your menubar or press `Cmd + Space`, type '`Terminal` and press `Enter`. In your terminal, run the following:
 
 ```console
 cd ~
@@ -81,7 +81,7 @@ conda init zsh
 
 ### Step 4: Check if Anaconda and Python are successfully installed
 
-Open the OS/X terminal. You can find your terminal by *clicking* the "magnifying glass" icon (also known as `Spotlight`) on the upper-right hand corner of your menubar. Type `Terminal` in `Spotlight` and press the `Enter` key on your keyboard. In your terminal, type `python` and press `Enter`. The terminal should print something like:
+Open the OS/X terminal. You can find your terminal by *clicking* the "magnifying glass" icon (also known as `Spotlight`) on the upper-right hand corner of your menubar or press `Cmd + Space`, type '`Terminal` and press `Enter`. In your terminal, type `python` and press `Enter`. The terminal should print something like:
 
     ```python
     Python 3.6.3 |Anaconda, Inc.| (default, Dec  5 2017, 17:30:25) 
