@@ -1,11 +1,5 @@
 # Natural Language Toolkit
 
-## Instructions (**Remove this section once you are done with your file**)
-
-(Copy over installation instructions from here: https://github.com/DHRI-Curriculum/install/blob/v2.0/sections/nltk.md into this file: https://github.com/DHRI-Curriculum/install/edit/v2.0/guides/nltk.md)
-
-Follow this format:
-
 ## What it is
 
 [NLTK](http://www.nltk.org/) stands for Natural Language Tool Kit, and it is an open source Python library for analyzing language data. It is used for Python programs that work with text in statistical natural language processing (NLP). In plain terms, NLTK allows users to work with collections of text to clean, categorize, and analyze that text. As such, it is an excellent tool for text analysis.
@@ -15,7 +9,6 @@ ATTENTION: NLTK comes installed with the [conda](conda.md) package managment sys
 ## Why we use it
 
 For the Digital Humanities Research Institute, we use NLTK because it is a rich library of natural language processing tools and datasets. It works very well with Python, allowing users to write powerful natural language processing programs with relatively short sections of code. 
-
 
 ## Installation instructions: macOS Catalina
 
@@ -104,8 +97,6 @@ It will take a few minutes to download. At the end, your terminal should look li
 ![image of completing the nltk data download on command line](images/nltk_mac_7.png)
 
 ### Step 5: Test Installation (MAC)
-
-## Test Install
 
 When the installation is complete, close the NLTK Downloader and check your installation. You need to be in a Python environment such as an interpreter or Jupyter notebook.
 
@@ -272,8 +263,6 @@ Out[2]: True
 ```
 
 ### Step 5: Test Installation (Windows)
-
-## Test Install
 
 When the installation is complete, close the NLTK Downloader and check your installation. You need to be in a Python environment such as an interpreter or Jupyter notebook.
 
