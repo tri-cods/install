@@ -14,7 +14,7 @@ Let's check if you have Anaconda already installed on your computer.
 
 * Try to open the Anaconda Prompt (On Mac, *Click* on the "magnifying glass" icon (also known as `Spotlight`) on the upper-right hand corner of your menubar and type `Anaconda`. On Windows, press the Windows key and type Anaconda). If no option comes up, you most likely don't have it installed.
 
-If you don't have Anaconda installed on your computer, you can follow either the macOS Catalina or Windows instructions. If you do have Anaconda and only need to update Anaconda to the newest version for this workshop, you can skip to the section that titled [Updating Anaconda (Mac or Windows)](https://github.com/DHRI-Curriculum/install/blob/di-installation-instructions/guides/python.md#updating-anaconda-mac-or-windows)
+If you don't have Anaconda installed on your computer, you can follow either the macOS Catalina or Windows instructions. If you do have Anaconda and only need to update Anaconda to the newest version for this workshop, you can skip to the section that titled [Updating Anaconda (Mac or Windows)](https://github.com/DHRI-Curriculum/install/blob/di-installation-instructions/guides/python.md#updating-anaconda-mac-or-windows).
 
 ---
 
@@ -69,6 +69,8 @@ You can move the installer to the Trash to save space on your Hard Drive by *cli
 ![Screenshot: move to trash image](/guides/images/anaconda10.png)
 
 ### Step 3: Run conda from your terminal
+
+This is so that you will be able to run anaconda directly from your terminal.
 
 Open your OS/X terminal. You can find your terminal by *clicking* the "magnifying glass" icon (also known as `Spotlight`) on the upper-right hand corner of your menubar or press `Cmd + Space`, type '`Terminal` and press `Enter`. In your terminal, run the following:
 
@@ -129,6 +131,8 @@ Choose the location to install anaconda (the default is fine). *Click* `Next`:
 ![Screenshot: text box with path for default Anaconda install and browse button ](/guides/images/anaconda05w.png)
 
 ### Step 3: Run Anaconda Installer Part 2: BE CAREFUL WITH THIS OPTION!
+
+This step is so that you will be able to run anaconda directly from your terminal. 
 
 On the Advanced Installation Options page, select **BOTH boxes**: "Add Anaconda to my PATH environment variable" and "Register Anaconda as my default Python". Then *click* `Next`: 
 
