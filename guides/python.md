@@ -20,11 +20,11 @@ If you don't have Anaconda installed on your computer, you can follow either the
 
 ## Installation instructions: macOS Catalina 
 
-While the installation instructions below is for macOS Catalina (10.15), this installation instruction should work for older macOS version. Older macOS versions (10.13 (High Sierra) to 10.14 (Mojave)) can also skip `Step 3` in the installation process. For older version, please check out the [Anaconda documentation](https://docs.anaconda.com/anaconda/install/#old-os). You can check your macOS version by clicking the "apple" icon on the upper-left corner of your menu bar and choose `About This Mac`. You should see the macOS name followed by the version number. Should you run into any trouble, you can also find solution to common installation issues [here](https://docs.anaconda.com/anaconda/user-guide/troubleshooting/).
+While the installation instructions below is for macOS Catalina (10.15), this installation instruction should work for older macOS versions. Older macOS versions (10.13 (High Sierra) to 10.14 (Mojave)) can also skip `Step 3` in the installation process. For older versions, please check out the [Anaconda documentation](https://docs.anaconda.com/anaconda/install/#old-os). You can check your macOS version by clicking the "apple" icon on the upper-left corner of your menu bar and choose `About This Mac`. You should see the macOS name followed by the version number. Should you run into any trouble, you can also find solution to common installation issues [here](https://docs.anaconda.com/anaconda/user-guide/troubleshooting/).
  
 ### Step 1: Download Python 3.+
 
-Visit the [Anaconda website](https://www.anaconda.com/products/individual) on your internet browser, such as Firefox or Chrome, and click on the **64-Bit Graphical Installer** (462 MB) under the MacOS Python 3.+ version menu. Our screenshot below shows python 3.8, but any latest **python 3.+** version will work with our instructions and the institute.
+Visit the [Anaconda website](https://www.anaconda.com/products/individual) on your internet browser, such as Firefox or Chrome, and scroll to the bottom of the page. Here, click on the **64-Bit Graphical Installer** (462 MB) under the MacOS Python 3.+ version menu. Our screenshot below shows python 3.8, but any latest **python 3.+** version will work with our instructions and the institute.
 
 ![Screenshot: Anaconda download webpage with 3.8 button highlighted](/guides/images/conda_installer_mac.png)
 
@@ -70,9 +70,11 @@ You can move the installer to the Trash to save space on your Hard Drive by *cli
 
 ### Step 3: Run conda from your terminal
 
-This is so that you will be able to run anaconda directly from your terminal.
+**NOTE: this step only applies to MacOS Catalina. For all previous version of MacOS, skip to Step 4**
 
-Open your OS/X terminal. You can find your terminal by *clicking* the "magnifying glass" icon (also known as `Spotlight`) on the upper-right hand corner of your menubar or press `Cmd + Space`, type '`Terminal` and press `Enter`. In your terminal, run the following:
+This step ensures that you will be able to run anaconda directly from your terminal.
+
+Open your OS/X terminal. You can find your terminal by *clicking* the "magnifying glass" icon (also known as `Spotlight`) on the upper-right hand corner of your menubar or press `Cmd + Space`, type '`Terminal` and press `Enter`. In your terminal, you will run a few lines of code to make sure that the terminal knows how to start Anaconda. Type in the following lines of code, after the `$`, pressing `Enter` after each line:
 
 ```console
 cd ~
@@ -80,6 +82,8 @@ bash
 source .bash_profile
 conda init zsh
 ```
+
+If this step is successful, when you close and re-open terminal, your command prompt `$` should have (base) in front of it.
 
 ### Step 4: Check if Anaconda and Python are successfully installed
 
@@ -105,7 +109,7 @@ While the installation instructions below is for Windows 10, this installation i
 
 We **strongly** recommend that you follow the screens below step by step. Paying particular attention to Step 3 in the installation process.
 
-Visit the [Anaconda website](https://www.anaconda.com/products/individual) on your internet browser, such as Firefox or Chrome, and click on the **64-Bit Graphical Installer** (466 MB) under the Windows Python 3.+ menu. Our screenshot below shows python 3.8, but any latest **python 3.+** version will work with our instructions and the institute.
+Visit the [Anaconda website](https://www.anaconda.com/products/individual) on your internet browser, such as Firefox or Chrome, and scroll to the bottom of the page. Here, click on the **64-Bit Graphical Installer** (466 MB) under the Windows Python 3.+ menu. Our screenshot below shows python 3.8, but any latest **python 3.+** version will work with our instructions and the institute.
 
 ![Screenshot: Anaconda download webpage with 3.8 button highlighted](/guides/images/conda_installer_windows.png)
 
