@@ -107,7 +107,7 @@ We **strongly** recommend that you follow the screens below step by step. Paying
 
 Visit the [Anaconda website](https://www.anaconda.com/products/individual) on your internet browser, such as Firefox or Chrome, and click on the Python 3.+ version button. Our screenshot below shows python 3.8, but any latest **python 3.+** version will work with our instructions and the institute.
 
-![Screenshot: Anaconda download webpage with 3.8 button highlighted](/guides/images/conda_install_windows.png)
+![Screenshot: Anaconda download webpage with 3.8 button highlighted](/guides/images/conda_installer_windows.png)
 
 You can ignore this. Just close this screen and wait for your donwload to finish.
 
