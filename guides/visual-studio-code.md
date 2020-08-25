@@ -78,7 +78,7 @@ Click `Next` when the Visual Code setup window opens.
 
 ### Step 4: Walking Through Visual Studio Code Installer II
 
-Accept the license agreement by selecting the first radio button. Then click `next`.
+Accept the license agreement by selecting the first radio button. Then click `Next`.
 
 ![Screenshot of Visual Studio Code license agreement](images/vscode4.png)
 
