@@ -24,9 +24,9 @@ While the installation instructions below is for macOS Catalina (10.15), this in
  
 ### Step 1: Download Python 3.+
 
-Visit the [Anaconda website](https://www.anaconda.com/download/) on your internet browser, such as Firefox or Chrome, and click on the Python 3.+ version button. Our screenshot below shows python 3.7, but any latest **python 3.+** version will work with our instructions and the institute.
+Visit the [Anaconda website](https://www.anaconda.com/products/individual) on your internet browser, such as Firefox or Chrome, and click on the Python 3.+ version button. Our screenshot below shows python 3.8, but any latest **python 3.+** version will work with our instructions and the institute.
 
-![Screenshot: Anaconda download webpage with 3.7 button highlighted](/guides/images/condaosx1.png)
+![Screenshot: Anaconda download webpage with 3.8 button highlighted](/guides/images/conda_installer_mac.png)
 
 You can ignore this. Just close this screen.
 
@@ -86,8 +86,9 @@ conda init zsh
 Open the OS/X terminal. You can find your terminal by *clicking* the "magnifying glass" icon (also known as `Spotlight`) on the upper-right hand corner of your menubar or press `Cmd + Space`, type '`Terminal` and press `Enter`. In your terminal, type `python` and press `Enter`. The terminal should print something like:
 
     ```python
-    Python 3.6.3 |Anaconda, Inc.| (default, Dec  5 2017, 17:30:25) 
-    [GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final)] on darwin
+    ~$ python
+    Python 3.7.7 (default, May  6 2020, 04:59:01) 
+    [Clang 4.0.1 (tags/RELEASE_401/final)] :: Anaconda, Inc. on darwin
     Type "help", "copyright", "credits" or "license" for more information.
     >>> 
     ```
@@ -104,9 +105,9 @@ While the installation instructions below is for Windows 10, this installation i
 
 We **strongly** recommend that you follow the screens below step by step. Paying particular attention to Step 3 in the installation process.
 
-Visit the [Anaconda website](https://www.anaconda.com/download/) on your internet browser, such as Firefox or Chrome, and click on the Python 3.+ version button. Our screenshot below shows python 3.7, but any latest **python 3.+** version will work with our instructions and the institute.
+Visit the [Anaconda website](https://www.anaconda.com/products/individual) on your internet browser, such as Firefox or Chrome, and click on the Python 3.+ version button. Our screenshot below shows python 3.8, but any latest **python 3.+** version will work with our instructions and the institute.
 
-![Screenshot: Anaconda download webpage with 3.7 button highlighted](/guides/images/anaconda00w.png)
+![Screenshot: Anaconda download webpage with 3.8 button highlighted](/guides/images/conda_install_windows.png)
 
 You can ignore this. Just close this screen and wait for your donwload to finish.
 
@@ -157,7 +158,9 @@ This is the final window. You can uncheck all the boxes and *Click* `Finish`:
 Open a Windows terminal. You can open the terminal by pressing `Windows + R` to open the `Run` box. Type `cmd` and then click `OK` to open the Command Prompt. Once it is open, type `python` and press `Enter` on your keyboard. The terminal should print something like:
 
     ```python
-    Python 3.6.5 |Anaconda, Inc.| (default, Mar 29 2018, 13:32:41) [MSC v.1900 64 bit (AMD64)] on win32
+    ~$ python
+    Python 3.7.7 (default, May  6 2020, 04:59:01) 
+    [Clang 4.0.1 (tags/RELEASE_401/final)] :: Anaconda, Inc. on darwin
     Type "help", "copyright", "credits" or "license" for more information.
     >>> 
     ```
