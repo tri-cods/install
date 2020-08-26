@@ -20,33 +20,31 @@ Visit the [Firefox download page](https://www.mozilla.org/en-US/firefox/new/?utm
 
 Click on the `Download Firefox` button.
 
-<![Image showing where to click to download Firefox](images/firefox_mac_02.png)
+![Image showing where to click to download Firefox](images/firefox_mac_02.png)
 
 ### Step 3: Move Firefox to the Applications folder
 
 Once the download has finished, the file should open by itself and pop open a Finder window containing the Firefox application. Drag the Firefox icon on top of the Applications folder in order to copy it there. This action will begin the installation, which should only take a few seconds to complete.
 
-<![Image showing how to drag Firefox and drop it in Applications folder](images/firefox_mac_03.png)
+![Image showing how to drag Firefox and drop it in Applications folder](images/firefox_mac_03.png)
 
 ### Step 4: Eject the Firefox installation file
 
 After dragging the Firefox app to the Applications folder, go back to the desktop screen, move the mouse cursor over the Firefox icon, and click it while holding down the `control` key on your keyboard. Then select the `Eject Firefox` option.
 
-<![Image showing how to eject the Firefox installation file](images/firefox_mac_04.png)
+![Image showing how to eject the Firefox installation file](images/firefox_mac_04.png)
 
 ### Step 5: Open Firefox 
 
 You can now start Firefox by double-clicking on it in the Applications folder. The first time you open Firefox, you should receive a dialogue box that asks you if you are sure you would like to open Firefox. Here you should click `Open`. 
 
-<![Image showing the dialogue box that opens only on the first time starting Firefox](images/firefox_mac_05.png)
+![Image showing the dialogue box that opens only on the first time starting Firefox](images/firefox_mac_05.png)
 
 ### Step 6: Finished!
 
-Firefox will now open. Congratulations you have completed installing Firefox!
+Firefox will now open. Congratulations, you have completed installing Firefox!
 
-<![Image showing a fresh install of Firefox](images/firefox_mac_06.png)
-
----
+![Image showing a fresh install of Firefox](images/firefox_mac_06.png)
 
 ## Installation instructions: Microsoft Windows 10
 
@@ -84,10 +82,6 @@ Wait for Firefox to finish installing.
 
 When the installation is complete, Firefox will open. 
 
-Congratulations you have successfully installed Firefox! 
+Congratulations, you have successfully installed Firefox! 
 
 ![Image showing a fresh install of Firefox](images/firefox06.PNG)
-
-
-
-
