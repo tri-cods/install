@@ -58,7 +58,7 @@ Accept the license by *clicking* `I Agree`:
 
 *Click* `Install Microsoft VSCode`. If it is already installed, *click* `Continue`:
 
-![Screenshot: menu option to also install vscode](/guides/images/anaconda8.png)
+![Screenshot: menu option to also install vscode](/guides/images/anaconda08.png)
 
 This is the final installation window. Just *Click* `Close`:
 
