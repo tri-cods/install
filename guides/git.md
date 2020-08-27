@@ -1,27 +1,16 @@
 # Git (and Git Bash)
 
-## Instructions (**Remove this section once you are done with your file**)
-
-(Copy over installation instructions from here: https://github.com/DHRI-Curriculum/install/blob/v2.0/sections/git.md into this file: https://github.com/DHRI-Curriculum/install/edit/v2.0/guides/git.md)
-
-Follow this format:
-
 ## What it is
 
 Git is a version control software used to manage and track changes made to files and project folders over time. We will be installing it on our local machine and live on the hard drive on your laptop. 
 
-Note that Git is a separate software than GitHub. Alternatively, GitHub is a web-based software that lives on the Internet. 
+Note that Git is a separate software than GitHub. Alternatively, GitHub is a web-based software that lives on the Internet. You can create an account at (github.com)[https://github.com].
 
 These instructions are for Git, not GitHub.
 
 ## Why we use it
 
-For the Digital Humanities Research Institute, we use Git because it.. 
-
-- open source
-- version control..
-- supports collaboration across time and space.. 
-- we use it for the curriculum.. 
+For the Digital Humanities Research Institute, we use Git because it is an open-source tool that was built to support individual version control needs as well as collaborations across time and space. In our curriculum, it is one of the foundational tools we teach because through understanding how Git works, we learn a lot more about how computers and different softwares work.
 
 ---
 
@@ -29,7 +18,11 @@ For the Digital Humanities Research Institute, we use Git because it..
 
 ### Step 1: Open a terminal
 
-The terminal, also known as command line, is a text interface to your computer and it differs what how we usually interact with our computers. Usually, we use softwares that come with a graphical user interface - GUI, pronounced *gooey* - and we point and click on buttons and drag and drop things. With Git, we type text into the terminal. The text you type in will be a mix of standard commands, file names, and other text.
+The terminal, also known as command line or bash, is a text interface for interacting with - or talking to - your computer. 
+
+This is different from how we usually interact with our computers. Usually, we use softwares that come with a graphical user interface - GUI, pronounced *gooey* - and we point and click on buttons, or drag and drop things. We might also type, like in Microsoft Word. However, in Word, you're not really talking to your computer until you click "Save" and name the file. It's at this point that you're telling your computer to perform a task in relation to the document or file you are creating or working on. 
+
+With Git, we talk to the computer through the terminal, so let's go ahead and open that now.
 
 To open the terminal, open spotlight search (default way to do this is by hitting command and the space bar) and type in “terminal”. Select the application called terminal and press the return key. This should open up an app with a black background. When you see your username followed by a dollar sign, you’re ready to start using command line.
 
@@ -37,23 +30,23 @@ To open the terminal, open spotlight search (default way to do this is by hittin
 
 ### Step 1: Type the following command into the terminal
 
+Using the terminal, we will use a set of specific phrases - or commands - that tell the computer what we want it to do. 
+
+First, we want to tell the computer to install the Command Line Tool Package. This give Mac users many commonly used tools, utilities, and compilers, including make, GCC, clang, perl, svn, size, strip, strings, libtool, cpp, what--and Git.
+
+Install this package by typing the following command into your terminal and clicking enter.
+
 ```bash
 xcode-select --install
 ```
-
-This standard command installs the Command Line Tool Package. This give Mac users many commonly used tools, utilities, and compilers, including make, GCC, clang, perl, svn, size, strip, strings, libtool, cpp, what--and Git.
 
 ![Image shows terminal with the above command typed in.](images/commandlinetools.png)
 
 ### Step 2: Test the Install
 
-Before proceeding, let's make sure Git has been installed successfully. 
+Now, let's make sure Git has been installed successfully. 
 
-- Open your terminal. 
-
-[shows terminal on mac osx](osx_terminal.md) 
-
-- Type the following into the terminal:
+- Type the following command into the terminal:
 ```bash
  git
  ```
@@ -70,31 +63,7 @@ usage: git [--version] [--help] [-C <path>] [-c name=value]
 
 ```
 
-## Updating an earlier development version of Git (that is already installed) 
-
-### Step 1: Check which development version of Git is currently installed on the computer.  
-
-Open your terminal and type the following into the terminal:
-```bash 
-git --version
- ```
-
-Check for the most recent development version of Git on their website [here](https://git-scm.com/downloads).
-
-### Step 2: Update your version - if needed.
-
-To update a computer that already has an earlier development version: 
-
-Open [the Git website downloads page](https://git-scm.com/downloads) in a browser and follow the posted download instructions according to the computer type: Mac, Linux/Unix, or Windows.  
-
-### Step 3: Recheck which development version by repeating step 1.
-
-Then, check that the new development version of Git is now installed:
-
-Close, and re-open your terminal and type the following into the terminal:
-```bash 
-git --version
- ```
+[shows terminal on mac osx](osx_terminal.md) 
 
 ---
 
@@ -102,7 +71,7 @@ git --version
 
 ### Step 1: Download Git for Windows
 
-Go to this website: https://git-scm.com/download/win
+First, go to this website: https://git-scm.com/download/win
 
 From the option, select "Click here to download manually" and save the file. 
 
@@ -149,7 +118,6 @@ Select `Visual Studio Code` as the default editor. (Note that you must [install 
 ### Step 8: Choose the HTTPS transport backend (the default is fine).
 
 *Click* `Next` when you're ready.
-
 
 ![list of radio button optionsL 1) use the OpenSSL library, 2) use the native windows secure channel library](../images/windows/git/git08.png)
 
@@ -209,26 +177,33 @@ usage: git [--version] [--help] [-C <path>] [-c name=value]
 
 ## Updating an earlier development version of Git (that is already installed) 
 
+If you already have Git installed, but want to check the version or update it, these instructions are for you!
+
 ### Step 1: Check which development version of Git is currently installed on the computer.  
 
-Open your terminal and type the following into the terminal:
+Open your terminal and type the following command into the terminal:
 ```bash 
 git --version
  ```
 
 Check for the most recent development version of Git on their website [here](https://git-scm.com/downloads).
 
+**How do I open the terminal again?**
+To open the terminal, open spotlight search (default way to do this is by hitting command and the space bar) and type in “terminal”. Select the application called terminal and press the return key.
+
 ### Step 2: Update your version - if needed.
 
-To update a computer that already has an earlier development version: 
+If you already have Git, but you want to update it, open [the Git website downloads page](https://git-scm.com/downloads) in you browser and follow the posted download instructions according to the computer type: Mac, Linux/Unix, or Windows.  
 
-Open [the Git website downloads page](https://git-scm.com/downloads) in a browser and follow the posted download instructions according to the computer type: Mac, Linux/Unix, or Windows.  
+### Step 3: Recheck your development version by repeating step 1.
 
-### Step 3: Recheck which development version by repeating step 1.
+When you think you've updated your software, it is good practice to check in with you computer to make sure its been updated. 
 
-Then, check that the new development version of Git is now installed:
+First, close, and re-open your terminal. 
 
-Close, and re-open your terminal and type the following into the terminal:
+Then type the following command into the terminal:
 ```bash 
 git --version
  ```
+
+ If ther version you are seeing is not correct, retry step 2.
