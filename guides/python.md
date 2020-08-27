@@ -16,8 +16,6 @@ Let's check if you have Anaconda already installed on your computer.
 
 If you don't have Anaconda installed on your computer, you can follow either the macOS Catalina or Windows instructions. If you do have Anaconda and only need to update Anaconda to the newest version for this workshop, you can skip to the section that titled [Updating Anaconda (Mac or Windows)](https://github.com/DHRI-Curriculum/install/blob/di-installation-instructions/guides/python.md#updating-anaconda-mac-or-windows).
 
----
-
 ## Installation instructions: macOS Catalina 
 
 While the installation instructions below is for macOS Catalina (10.15), this installation instruction should work for older macOS version. Older macOS versions (10.13 (High Sierra) to 10.14 (Mojave)) can also skip `Step 3` in the installation process. For older version, please check out the [Anaconda documentation](https://docs.anaconda.com/anaconda/install/#old-os). You can check your macOS version by clicking the "apple" icon on the upper-left corner of your menu bar and choose `About This Mac`. You should see the macOS name followed by the version number. Should you run into any trouble, you can also find solution to common installation issues [here](https://docs.anaconda.com/anaconda/user-guide/troubleshooting/).
@@ -94,8 +92,6 @@ Open the OS/X terminal. You can find your terminal by *clicking* the "magnifying
 
 Type `exit()` to leave python
 
----
-
 ## Installation instructions: Microsoft Windows 10
 
 While the installation instructions below is for Windows 10, this installation instruction should work for Windows 8 as well. For older version, please check out the [Anaconda documentation](https://docs.anaconda.com/anaconda/install/#old-os). Should you run into any trouble, you can also find solution to common installation issues [here](https://docs.anaconda.com/anaconda/user-guide/troubleshooting/).
@@ -156,15 +152,13 @@ This is the final window. You can uncheck all the boxes and *Click* `Finish`:
 
 Open a Windows terminal. You can open the terminal by pressing `Windows + R` to open the `Run` box. Type `cmd` and then click `OK` to open the Command Prompt. Once it is open, type `python` and press `Enter` on your keyboard. The terminal should print something like:
 
-    ```python
-    Python 3.6.5 |Anaconda, Inc.| (default, Mar 29 2018, 13:32:41) [MSC v.1900 64 bit (AMD64)] on win32
-    Type "help", "copyright", "credits" or "license" for more information.
-    >>> 
-    ```
+```python
+Python 3.6.5 |Anaconda, Inc.| (default, Mar 29 2018, 13:32:41) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 
+```
 
 Type `exit()` to leave python
-
----  
 
 ## Updating Anaconda (Mac or Windows)
 
