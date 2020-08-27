@@ -138,7 +138,7 @@ If installed successfully, you should see the following:
 
 ## Installation instructions: Microsoft Windows 10
 
-Before getting startied, there are some things to note about software versions. First, these installation instructions work with Microsoft Windows 10.
+Before getting started, there are some things to note about software versions. First, these installation instructions work with Microsoft Windows 10.
 
 Second, if you have completed the Python workshop, you have probably downloaded the Anaconda package. Therefore, you may already have NLTK installed on your computer. The below instructions begin with an NLTK check and, in the case that you do not have NLTK installed, walk you through the installation.
 
@@ -176,7 +176,7 @@ $ conda install nltk -y
 
 The terminal should print something like the following:
 
-```console
+```pycon
 Collecting package metadata (current_repodata.json): done
 Solving environment: done
 
