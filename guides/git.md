@@ -12,8 +12,6 @@ These instructions are for Git, not GitHub.
 
 For the Digital Humanities Research Institute, we use Git because it is an open-source tool that was built to support individual version control needs as well as collaborations across time and space. In our curriculum, it is one of the foundational tools we teach because through understanding how Git works, we learn a lot more about how computers and different softwares work.
 
----
-
 ## Installation instructions: macOS Catalina
 
 ### Step 1: Open a terminal
@@ -37,7 +35,7 @@ First, we want to tell the computer to install the Command Line Tool Package. Th
 Install this package by typing the following command into your terminal and clicking enter.
 
 ```bash
-xcode-select --install
+$ xcode-select --install
 ```
 
 ![Image shows terminal with the above command typed in.](images/commandlinetools.png)
@@ -47,9 +45,10 @@ xcode-select --install
 Now, let's make sure Git has been installed successfully. 
 
 - Type the following command into the terminal:
+
 ```bash
- git
- ```
+$ git
+```
 
 The terminal should print something like (note that this is truncated):
 
@@ -64,8 +63,6 @@ usage: git [--version] [--help] [-C <path>] [-c name=value]
 ```
 
 [shows terminal on mac osx](images/osxterminalgit.png) 
-
----
 
 ## Installation instructions: Microsoft Windows 10
 
@@ -142,7 +139,7 @@ Again, the defaults are fine. *Click* `Next` when you are ready.
 
 ### Step 12: Git should now be installing.
  
- ![image of progress bar](images/git12.png)
+![image of progress bar](images/git12.png)
 
 ### Step 13: Finish the installation.
 
@@ -157,9 +154,10 @@ Now, let's make sure Git has been installed successfully.
 - Open Your terminal 
 
 - Type the following into the terminal:
+
 ```bash
- git
- ```
+$ git
+```
 
 The terminal should print something like (note that this is truncated):
 
@@ -169,8 +167,6 @@ usage: git [--version] [--help] [-C <path>] [-c name=value]
            [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
            [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
            <command> [<args>]
-
-
 ```
 
 ## Updating an earlier development version of Git (that is already installed) 
@@ -180,9 +176,10 @@ If you already have Git installed, but want to check the version or update it, t
 ### Step 1: Check which development version of Git is currently installed on the computer.  
 
 Open your terminal and type the following command into the terminal:
+
 ```bash 
-git --version
- ```
+$ git --version
+```
 
 Check for the most recent development version of Git on their website [here](https://git-scm.com/downloads).
 
@@ -200,8 +197,9 @@ When you think you've updated your software, it is good practice to check in wit
 First, close, and re-open your terminal. 
 
 Then type the following command into the terminal:
-```bash 
-git --version
- ```
 
- If ther version you are seeing is not correct, retry step 2.
+```bash 
+$ git --version
+```
+
+If the version you are seeing is not correct, retry step 2.
