@@ -16,8 +16,6 @@ Let's check if you have Anaconda already installed on your computer.
 
 If you don't have Anaconda installed on your computer, you can follow either the macOS Catalina or Windows instructions. If you do have Anaconda and only need to update Anaconda to the newest version for this workshop, you can skip to the section that titled [Updating Anaconda (Mac or Windows)](https://github.com/DHRI-Curriculum/install/blob/di-installation-instructions/guides/python.md#updating-anaconda-mac-or-windows).
 
----
-
 ## Installation instructions: macOS Catalina 
 
 While the installation instructions below is for macOS Catalina (10.15), this installation instruction should work for older macOS versions. Older macOS versions (10.13 (High Sierra) to 10.14 (Mojave)) can also skip `Step 3` in the installation process. For older versions, please check out the [Anaconda documentation](https://docs.anaconda.com/anaconda/install/#old-os). You can check your macOS version by clicking the "apple" icon on the upper-left corner of your menu bar and choose `About This Mac`. You should see the macOS name followed by the version number. Should you run into any trouble, you can also find solution to common installation issues [here](https://docs.anaconda.com/anaconda/user-guide/troubleshooting/).
@@ -58,7 +56,7 @@ Accept the license by *clicking* `I Agree`:
 
 *Click* `Install Microsoft VSCode`. If it is already installed, *click* `Continue`:
 
-![Screenshot: menu option to also install vscode](/guides/images/anaconda8.png)
+![Screenshot: menu option to also install vscode](/guides/images/anaconda08.png)
 
 This is the final installation window. Just *Click* `Close`:
 
@@ -98,8 +96,6 @@ Open the OS/X terminal. You can find your terminal by *clicking* the "magnifying
     ```
 
 Type `exit()` to leave python
-
----
 
 ## Installation instructions: Microsoft Windows 10
 
@@ -170,8 +166,6 @@ Open a Windows terminal. You can open the terminal by pressing `Windows + R` to 
     ```
 
 Type `exit()` to leave python
-
----  
 
 ## Updating Anaconda (Mac or Windows)
 

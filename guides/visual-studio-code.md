@@ -8,8 +8,6 @@ Visual Studio Code is a text editor that allows us to write code in a variety of
 
 For the Digital Humanities Research Institute, we use Visual Studio Code because it supports [syntax highlighting](https://en.wikipedia.org/wiki/Syntax_highlighting), it is free and built on open source, and it is consistent across Mac, Windows, and Linux systems.
 
----
-
 ## Installation instructions: macOS Catalina
 
 ### Step 1: Download Visual Studio Code Installer
@@ -54,8 +52,6 @@ Congratulations, Visual Studio Code is now installed in your computer!
 
 ![Screeshot showing Visual Studio Code running successfully](images/vscode_mac_7.png)
 
----
-
 ## Installation instructions: Microsoft Windows 10
 
 ### Step 1: Download Visual Studio Code Installer
@@ -78,7 +74,7 @@ Click `Next` when the Visual Code setup window opens.
 
 ### Step 4: Walking Through Visual Studio Code Installer II
 
-Accept the license agreement by selecting the first radio button. Then click `next`.
+Accept the license agreement by selecting the first radio button. Then click `Next`.
 
 ![Screenshot of Visual Studio Code license agreement](images/vscode4.png)
 
