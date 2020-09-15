@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/DHRI-Curriculum/install/v2.0/_django-meta/header-images/visual-studio-code%403x.png)
+
 # Microsoft Visual Studio Code
 
 ## What it is
