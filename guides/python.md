@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/DHRI-Curriculum/install/v2.0/_django-meta/header-images/python%403x.png)
+
 # Python (and Anaconda)
 
 ## What it is
