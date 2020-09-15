@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/DHRI-Curriculum/install/v2.0/_django-meta/header-images/nltk%403x.png)
+
 # Natural Language Toolkit
 
 ## What it is
