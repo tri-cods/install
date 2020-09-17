@@ -1,4 +1,4 @@
-[Anaconda](https://www.anaconda.com/download/) is a distribution of Python. It provides a Python programming environment, the [Jupyter notebook environment](https://github.com/DHRI-Curriculum/install/blob/master/sections/jupyter.md), and the [conda](conda.md) package management system. 
+[Anaconda](https://www.anaconda.com/download/) is a distribution of Python. It provides a Python programming environment, the [Jupyter notebook environment](https://github.com/DHRI-Curriculum/install/blob/v2.0/sections/jupyter.md), and the [conda](https://github.com/DHRI-Curriculum/install/blob/v2.0/sections/conda.md) package management system. 
 
 # Choose the appropriate option and follow the instructions:
 
