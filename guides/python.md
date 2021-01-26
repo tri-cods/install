@@ -18,9 +18,9 @@ Try to open the Anaconda Prompt (On Mac, click on the "magnifying glass" icon (a
 
 If you don't have Anaconda installed on your computer, you can follow either the macOS Catalina or Windows instructions. If you do have Anaconda and only need to update Anaconda to the newest version for this workshop, you can go to our Insight section for [Keeping your Anaconda installation up to date](https://github.com/DHRI-Curriculum/insights/blob/v2.0/pages/anaconda.md).
 
-## Installation instructions: macOS Catalina 
+## Installation instructions: macOS (Mojave, Catalina, Big Sur etc.)
 
-While the installation instructions below is for macOS Catalina (10.15), this installation instruction should work for older macOS versions. Older macOS versions (10.13 (High Sierra) to 10.14 (Mojave)) can also skip step 3 in the installation process. For older versions, please check out the [Anaconda documentation](https://docs.anaconda.com/anaconda/install/#old-os). You can check your macOS version by clicking the "apple" icon on the upper-left corner of your menu bar and choose "About This Mac." You should see the macOS name followed by the version number. Should you run into any trouble, you can also find solution to common installation issues [here](https://docs.anaconda.com/anaconda/user-guide/troubleshooting/).
+While the installation instructions below is for macOS Catalina (10.15) and above, this installation instruction should work for older macOS versions. Older macOS versions (10.13 (High Sierra) to 10.14 (Mojave)) can also skip step 3 in the installation process. For older versions, please check out the [Anaconda documentation](https://docs.anaconda.com/anaconda/install/#old-os). You can check your macOS version by clicking the "apple" icon on the upper-left corner of your menu bar and choose "About This Mac." You should see the macOS name followed by the version number. Should you run into any trouble, you can also find solution to common installation issues [here](https://docs.anaconda.com/anaconda/user-guide/troubleshooting/).
  
 ### Step 1: Download Python 3.+
 
@@ -70,7 +70,7 @@ You can move the installer to the Trash to save space on your hard drive by clic
 
 ### Step 3: Run conda from your terminal
 
-**NOTE: this step only applies to MacOS Catalina. For all previous version of MacOS, skip to Step 4**
+**NOTE: this step only applies to MacOS Catalina and Big Sur. For all previous version of MacOS, skip to Step 4**
 
 This step ensures that you will be able to run anaconda directly from your terminal.
 
