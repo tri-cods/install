@@ -6,7 +6,7 @@
 
 Git is a version control software used to manage and track changes made to files and project folders over time. We will be installing it on our local machine and live on the hard drive on your laptop. 
 
-Note that Git is a separate software than GitHub. Alternatively, GitHub is a web-based software that lives on the Internet. You can create an account at (github.com)[https://github.com].
+Note that Git is a separate software than GitHub. Alternatively, GitHub is a web-based software that lives on the Internet. You can create an account at [github.com](https://github.com).
 
 These instructions are for Git, not GitHub.
 
