@@ -24,11 +24,11 @@ While the installation instructions below is for macOS Catalina (10.15) and abov
  
 ### Step 1: Download Python 3.+
 
-Visit the [Anaconda website](https://www.anaconda.com/products/individual) on your internet browser, such as Firefox or Chrome, and scroll to the bottom of the page. Here, click on the **64-Bit Graphical Installer** under the MacOS Python 3.+ version menu. Our screenshot below shows python 3.8, but any latest **python 3.+** version will work with our instructions and the institute.
+Visit the [Anaconda website](https://www.anaconda.com/products/individual) on your internet browser, such as Firefox or Chrome, and scroll to the bottom of the page. Here, click on the **64-Bit Graphical Installer** under the MacOS Python 3.+ version menu. Our screenshot below shows python 3.8, but any latest **python 3.+** version will work with our instructions and the institute.  
 
 ![Screenshot: Anaconda download webpage with 3.8 button highlighted](/guides/images/conda_installer_mac.png)
 
-You can ignore this. Just close this screen.
+You can ignore this. Just close this screen.  
 
 ![Screenshot: Anaconda thank you image](/guides/images/anaconda01.png)
 
@@ -36,35 +36,35 @@ You can either let your browser open with the Installer, or save it and open it 
 
 ### Step 2: Run Anaconda Installer
 
-After the download has completed, if it doesn't open automatically, double-click on the installer file you just saved on your computer. Click `Continue`:
+After the download has completed, if it doesn't open automatically, double-click on the installer file you just saved on your computer. Click `Continue`:  
 
 ![Screenshot: Anaconda installer: security image](/guides/images/anaconda02-5.png)
 
-You should then see the initial install screen. Click `Continue`:
+You should then see the initial install screen. Click `Continue`:  
  
  ![Screenshot: initial installation image](/guides/images/anaconda03.png)
 
-Click `Continue` again:
+Click `Continue` again:  
 
 ![Screenshot: software licence agreement image](/guides/images/anaconda04.png)
 
-Accept the license by clicking `I Agree`:
+Accept the license by clicking `I Agree`:  
  
 ![Screenshot: licence agreement](/guides/images/anaconda05.png)
 
-Click `Install`. Only change the install location if you know what you are doing:
+Click `Install`. Only change the install location if you know what you are doing:  
 
 ![Screenshot: standard install on macintosh](/guides/images/anaconda06.png)
 
-Click `Install Microsoft VSCode`. If it is already installed, click `Continue`:
+Click `Install Microsoft VSCode`. If it is already installed, click `Continue`:  
 
 ![Screenshot: menu option to also install vscode](/guides/images/anaconda08.png)
 
-This is the final installation window. Just click `Close`:
+This is the final installation window. Just click `Close`:  
 
 ![Screenshot: final installation window for anaconda](/guides/images/anaconda09.png)
 
-You can move the installer to the Trash to save space on your hard drive by clicking `Move to Trash`:
+You can move the installer to the Trash to save space on your hard drive by clicking `Move to Trash`:  
 
 ![Screenshot: move to trash image](/guides/images/anaconda10.png)
 
@@ -72,9 +72,9 @@ You can move the installer to the Trash to save space on your hard drive by clic
 
 **NOTE: this step only applies to MacOS Catalina and Big Sur. For all previous version of MacOS, skip to Step 4**
 
-This step ensures that you will be able to run anaconda directly from your terminal.
+This step ensures that you will be able to run anaconda directly from your terminal.  
 
-Open your macOS terminal. You can find your terminal by clicking the "magnifying glass" icon (also known as `Spotlight`) on the upper-right hand corner of your menubar or press <kbd>command</kbd> + <kbd>space</kbd>, type `Terminal` and press <kbd>enter</kbd>. In your terminal, you will run a few lines of code to make sure that the terminal knows how to start Anaconda. Type in the following lines of code, after the `$`, pressing <kbd>enter</kbd> after each line:
+Open your macOS terminal. You can find your terminal by clicking the "magnifying glass" icon (also known as `Spotlight`) on the upper-right hand corner of your menubar or press <kbd>command</kbd> + <kbd>space</kbd>, type `Terminal` and press <kbd>enter</kbd>. In your terminal, you will run a few lines of code to make sure that the terminal knows how to start Anaconda. Type in the following lines of code, after the `$`, pressing <kbd>enter</kbd> after each line:  
 
 ```console
 cd ~
