@@ -1,6 +1,6 @@
 # Digital Humanities Research Institute Installation Instructions
 
-This repository contains the raw installation instruction files belonging to the Digital Humanities Research Institute.
+This repository contains the raw installation instruction files belonging to the Digital Humanities Research Institute. To see the live instructions, go to http://curriculum.dhinstitutes.org/installations
 
 - [Firefox](guides/firefox.md)
 - [Git (and Git Bash)](guides/git.md)
