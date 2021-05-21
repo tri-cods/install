@@ -7,7 +7,7 @@ README = '# Digital Humanities Research Institute Installation Instructions\n\n'
 
 # TODO: #24 
 
-README += 'This repository contains the raw installation instruction files belonging to the Digital Humanities Research Institute.\n\n'
+README += 'This repository contains the raw installation instruction files belonging to the Digital Humanities Research Institute. To see the live instructions, go to http://curriculum.dhinstitutes.org/installations\n\n'
 
 for file in file_list:
     lines = (x for x in file.read_text().splitlines() if x)
