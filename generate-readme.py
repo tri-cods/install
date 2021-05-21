@@ -7,7 +7,7 @@ README = '# Digital Humanities Research Institute Installation Instructions\n\n'
 
 # TODO: #24 
 
-README += 'This glossary contains definitions and explanations of core concepts introduced in the early sections of the Digital Humanities Research Institute.\n\n'
+README += 'This repository contains the raw installation instruction files belonging to the Digital Humanities Research Institute.\n\n'
 
 for file in file_list:
     lines = (x for x in file.read_text().splitlines() if x)
@@ -18,7 +18,7 @@ for file in file_list:
             header = line.replace('#', '')
             header = header.strip()
         except StopIteration:
-            raise RuntimeError(f'Could not find term in file {file}. Verify the contents of it first.')
+            raise RuntimeError(f'Could not find instruction in file {file}. Verify the contents of it first.')
 
     README += f'- [{header}]({file})\n'
 
