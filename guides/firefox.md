@@ -10,7 +10,7 @@
 
 For the Digital Humanities Research Institute, we use Firefox because it works on Windows and Mac operating systems, it is frequently updated, and it values user privacy. 
 
-## Installation instructions: macOS Catalina
+## Installation instructions: macOS
 
 ### Step 1: Go to the Firefox download webpage
 
