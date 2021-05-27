@@ -9,39 +9,39 @@ Download VSCode at https://code.visualstudio.com/
 ### Windows
 1. *Click* on the VScode installer in your downloads folder:
 
-![installer shortcut - shaded blue box with ribbon logo. It has something like `VSCodeSetup-` at the front of its filename](images/vscode00.png)
+![installer shortcut - shaded blue box with ribbon logo. It has something like `VSCodeSetup-` at the front of its filename](images/vscode2.png)
 
 2. When you see this window, *click* `Next`:
 
- ![initial installer window](images/vscode01.png)
+ ![initial installer window](images/vscode3.png)
  
  3. Accept the license agreement by *selecting* the first radio button. Then *click* `next`  
  
- ![license agreement install window](images/vscode02.png)
+ ![license agreement install window](images/vscode4.png)
  
  4. Choose the folder on the computer that VSCode should be installed in (the default is usually fine). Then *click* `Next`:
  
- ![installation folder selection window with a browse button to enable you to search for an installation folder](images/vscode03.png)
+ ![installation folder selection window with a browse button to enable you to search for an installation folder](images/vscode5.png)
  
  4b. Windows only: Choose the folder in the start menu that VSCode should be installed in. Then *click* `Next`:
  
- ![select start menu folder installation window, with a browse button to enable you to search for a folder on the start menu to ](images/vscode04.png)
+ ![select start menu folder installation window, with a browse button to enable you to search for a folder on the start menu to ](images/vscode6.png)
  
  4c. Windows only: Please *check* the box that says `Add to PATH`, which is the fifth (last) box. Check the other boxes at your own discretion. Then *click* `Next`:
  
- ![Select additional tools menu of check boxes. The options are (top to bottom): i. Create a desktop icon, ii. Add `Open With Code` action to Windows Explorer file context menu, iii. Add `Open With Code` action to Windows Explorer directory context menu, iv. Register code as an editor for supported file types, v. Add to Path (available after restart)](images/vscode05.png)
+ ![Select additional tools menu of check boxes. The options are (top to bottom): i. Create a desktop icon, ii. Add `Open With Code` action to Windows Explorer file context menu, iii. Add `Open With Code` action to Windows Explorer directory context menu, iv. Register code as an editor for supported file types, v. Add to Path (available after restart)](images/vscode7.png)
 
 5. You should see a window listing the configurations you chose in the previous steps. If they are incorrect, *click* `Back` and redo the previous steps. If they are correct, *click* `Install`:
 
- ![ready to install window listing configurations](images/vscode06.png)
+ ![ready to install window listing configurations](images/vscode8.png)
 
 6. Sit back and relax because the install will take a while. You should see a window with a progress bar similar to this:
 
-![progress bar showing how far along the install is](images/vscode07.png) 
+![progress bar showing how far along the install is](images/vscode9.png) 
 
 7. *Check* the "Launch Visual Studio Code" checkbox and then *click* `Next`
 
-![setup finished window with launch visual studio code checkbox](images/vscode08.png)
+![setup finished window with launch visual studio code checkbox](images/vscode8.png)
 
 8. [Test Install](#test-install)
 
@@ -52,19 +52,19 @@ To open code from the osx terminal (command line), we need to [add it to path](h
 1. [Download VSCode](#download)
 
 1. Drag the Visual Studio Code application to `Applications` folder. 
-![osx finder window showing visual studio code icon](images/vscode.png)
+![osx finder window showing visual studio code icon](vscode_mac_3.png)
 
 1. Open VSCode via your preferred method.  *Click* on the icon:
 
-![Visual Studio Code icon - black box with blue ribbon inside](images/path00.png)
+![Visual Studio Code icon - black box with blue ribbon inside](vscode_mac_4.png)
 
 2. Navigate to the `View->Command Pallet` menu and *click* on `command`
 
-![VSCode top level menu bar, View is the fourth option down](images/path01.png)
+![VSCode top level menu bar, View is the fourth option down](images/vscode_mac_5.png)
 
 3. The `Command Pallet` menu looks like this. *Type* `shell` into the text bar. Then choose "Shell Command: Install `code` command in PATH" 
 
-![textbar with menu options underneath](images/path02.png)
+![textbar with menu options underneath](vscode_mac_6.png)
 
 4. Once the install is finished, you should be able to open a [terminal](osx_terminal.md) and *type* `code` and that should launch VSCode
 
@@ -76,6 +76,6 @@ To open code from the osx terminal (command line), we need to [add it to path](h
 
 VSCode should now be installed. You should see something like this window when you launch VSCode:
 
-![main vscode screen with side panel menu buttons: file explorer, search, git integration, debugger/variable explorer, extension manager. Second panel is file browser to find file to open, and third panel is to chose customizations](images/vscode09.png)
+![main vscode screen with side panel menu buttons: file explorer, search, git integration, debugger/variable explorer, extension manager. Second panel is file browser to find file to open, and third panel is to chose customizations](images/vscode11.png)
 
 Ignore the warnings about git not being installed. 
