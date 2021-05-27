@@ -2,12 +2,12 @@
 
 This repository contains the raw installation instruction files belonging to the Digital Humanities Research Institute. To see the live instructions, go to http://curriculum.dhinstitutes.org/installations
 
-Below is a table listing each DSRI session--under the "Sessions" column--and instructions to install the corresponding software that is needed to follow that session--under the "Software Installations" column. Some software installations are listed more than once, but only need to be installed once per computer. Click the hyperlinked name of the software--for example, [Visual Studio Code](guides/vscode.md)--to view the instructions to complete the installation of that software.  
+Below is a table listing each DSRI session--under the "Sessions" column--and instructions to install the corresponding software that is needed to follow that session--under the "Software Installations" column. Some software installations are listed more than once, but only need to be installed once per computer. Click the hyperlinked name of the software--for example, [Visual Studio Code](guides/visual-studio-code.md)--to view the instructions to complete the installation of that software.  
 
 Session | Software Installation Instructions
 --------| ---------
-[Command Line](https://github.com/tri-cods/command-line) | [Visual Studio Code](guides/vscode.md), [git bash](guides/git.md) | 
-[Introduction to HTML and CSS)](https://github.com/tri-cods/html-css) | [Visual Studio Code](guides/vscode.md), [git](guides/git.md) |
+[Command Line](https://github.com/tri-cods/command-line) | [Visual Studio Code](guides/visual-studio-code.md), [git bash](guides/git.md) | 
+[Introduction to HTML and CSS)](https://github.com/tri-cods/html-css) | [Visual Studio Code](guides/visual-studio-code.md), [git](guides/git.md) |
 Webscraping | [Web Scraper](guides/webscraper.md) |
 [Tidy(ish) Data](https://github.com/tri-cods/tidy-data) | [OpenRefine](guides/open_refine.md) |
 
