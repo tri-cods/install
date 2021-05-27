@@ -6,8 +6,8 @@ Below is a table listing each DSRI session--under the "Sessions" column--and ins
 
 Session | Software Installation Instructions
 --------| ---------
-[Command Line](https://github.com/tri-cods/command-line) | [Visual Studio Code](guides/vscode.md), [git bash](guides/git.md) | 
-[Introduction to HTML and CSS)](https://github.com/tri-cods/html-css) | [Visual Studio Code](guides/vscode.md), [git](guides/git.md) |
+[Command Line](https://github.com/tri-cods/command-line) | [Visual Studio Code](guides/vscode.md), [git bash](sections/git.md) | 
+[Introduction to HTML and CSS)](https://github.com/tri-cods/html-css) | [Visual Studio Code](guides/vscode.md), [git](sections/git.md) |
 Webscraping | [Web Scraper](guides/webscraper.md) |
 [Tidy(ish) Data](https://github.com/tri-cods/tidy-data) | [OpenRefine](guides/open_refine.md) |
 
