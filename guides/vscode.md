@@ -58,11 +58,11 @@ To open code from the osx terminal (command line), we need to [add it to path](h
 
 ![Visual Studio Code icon - black box with blue ribbon inside](images/vscode_mac_4.png)
 
-2. Navigate to the `View->Command Pallet` menu and *click* on `command`
+2. Navigate to the `View->Command Pallete` menu and *click* on `command`
 
 ![VSCode top level menu bar, View is the fourth option down](images/vscode_mac_5.png)
 
-3. The `Command Pallet` menu looks like this. *Type* `shell` into the text bar. Then choose "Shell Command: Install `code` command in PATH" 
+3. The `Command Pallete` menu looks like this. *Type* `shell` into the text bar. Then choose "Shell Command: Install `code` command in PATH" 
 
 ![textbar with menu options underneath](images/vscode_mac_6.png)
 
