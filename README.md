@@ -10,8 +10,6 @@ Session | Software Installation Instructions
 [Introduction to HTML and CSS)](https://github.com/tri-cods/html-css) | [Visual Studio Code](sections/vscode.md), [git](sections/git.md) |
 Webscraping | [Web Scraper](sections/webscraper.md) |
 [Tidy(ish) Data](https://github.com/tri-cods/tidy-data) | [OpenRefine](sections/open_refine.md) |
-[Introduction to HTML and CSS)](https://github.com/tri-cods/html-css) | [Visual Studio Code](sections/vscode.md), [git](sections/git.md) |
-[Introduction to HTML and CSS)](https://github.com/tri-cods/html-css) | [Visual Studio Code](sections/vscode.md), [git](sections/git.md) |
 
 In addition, participants are expected to have a recent version of [Chrome](https://www.google.com/chrome/) or [Firefox](https://www.mozilla.org/en-US/firefox/new/) installed.
 
