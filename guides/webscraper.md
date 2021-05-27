@@ -6,7 +6,7 @@ Web Scraper offers several pieces of software and services that help users extra
 
 We are specifically installing the Web Scraper browser plugin for Chrome or Firefox.
 
-## Why We use it
+## Why we use it
 
 Researchers from many disciplines have a reoccurring need: To take data -- whether links, text, images, or files -- structured on a webpage and to convert it to some other format on their own computers. Problem is all websites are slightly different and require customized scripts to get that data.
 
