@@ -2,7 +2,7 @@ Check the links below for the content of courses and the installation instructio
 
 # Installations
 
-Below is a table listing each DSRI session--under the "Sessions" column--and instructions to install the corresponding software that is needed to follow that session--under the "Software Installations" column. Some software installations are listed more than once, but only need to be installed once per computer. Click the hyperlinked name of the software--for example, [Atom](sections/atom.md)--to view the instructions to complete the installation of that software.  
+Below is a table listing each DSRI session--under the "Sessions" column--and instructions to install the corresponding software that is needed to follow that session--under the "Software Installations" column. Some software installations are listed more than once, but only need to be installed once per computer. Click the hyperlinked name of the software--for example, [Visual Studio Code](sections/vscode.md)--to view the instructions to complete the installation of that software.  
 
 Session | Software Installation Instructions
 --------| ---------
