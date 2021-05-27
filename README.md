@@ -1,35 +1,35 @@
-Check the links below for the content of courses and the installation instructions.
+# Digital Humanities Research Institute Installation Instructions
 
-# Installations
+This repository contains the raw installation instruction files belonging to the Digital Humanities Research Institute. To see the live instructions, go to http://curriculum.dhinstitutes.org/installations
 
-Below is a table listing each DSRI session--under the "Sessions" column--and instructions to install the corresponding software that is needed to follow that session--under the "Software Installations" column. Some software installations are listed more than once, but only need to be installed once per computer. Click the hyperlinked name of the software--for example, [Visual Studio Code](sections/vscode.md)--to view the instructions to complete the installation of that software.  
+Below is a table listing each DSRI session--under the "Sessions" column--and instructions to install the corresponding software that is needed to follow that session--under the "Software Installations" column. Some software installations are listed more than once, but only need to be installed once per computer. Click the hyperlinked name of the software--for example, [Visual Studio Code](guides/vscode.md)--to view the instructions to complete the installation of that software.  
 
 Session | Software Installation Instructions
 --------| ---------
-[Command Line](https://github.com/tri-cods/command-line) | [Visual Studio Code](sections/vscode.md), [git bash](sections/git.md) | 
-[Introduction to HTML and CSS)](https://github.com/tri-cods/html-css) | [Visual Studio Code](sections/vscode.md), [git](sections/git.md) |
-Webscraping | [Web Scraper](sections/webscraper.md) |
-[Tidy(ish) Data](https://github.com/tri-cods/tidy-data) | [OpenRefine](sections/open_refine.md) |
+[Command Line](https://github.com/tri-cods/command-line) | [Visual Studio Code](guides/vscode.md), [git bash](guides/git.md) | 
+[Introduction to HTML and CSS)](https://github.com/tri-cods/html-css) | [Visual Studio Code](guides/vscode.md), [git](guides/git.md) |
+Webscraping | [Web Scraper](guides/webscraper.md) |
+[Tidy(ish) Data](https://github.com/tri-cods/tidy-data) | [OpenRefine](guides/open_refine.md) |
 
 In addition, participants are expected to have a recent version of [Chrome](https://www.google.com/chrome/) or [Firefox](https://www.mozilla.org/en-US/firefox/new/) installed.
 
-<!-- [Git and Github](https://github.com/tri-cods/github) | [Atom](sections/atom.md), [git](sections/git.md) | -->
-<!-- [Twitter API](https://github.com/DHRI-Curriculum/twitter-api) | [Python](sections/python.md), [Tweepy](sections/tweepy.md) |-->
+<!-- [Git and Github](https://github.com/tri-cods/github) | [Atom](guides/atom.md), [git](guides/git.md) | -->
+<!-- [Twitter API](https://github.com/DHRI-Curriculum/twitter-api) | [Python](guides/python.md), [Tweepy](guides/tweepy.md) |-->
 
 <!-- 
 ### Software Installations
 
 [Firefox](https://www.mozilla.org/en-US/firefox/)  
-[git](sections/git.md)  
-[QGIS](sections/qgis.md)  
-[Visual Studio Code](sections/vscode.md)  
+[git](guides/git.md)  
+[QGIS](guides/qgis.md)  
+[Visual Studio Code](guides/vscode.md)  
 
 ### Python Packages
 
-[Natural Language Tool Kit (NLTK)](sections/nltk.md)  
-[Pandas](sections/pandas.md)  
-[Scikit-Learn](sections/sklearn.md)  
-[Tweepy](sections/tweepy.md)  
+[Natural Language Tool Kit (NLTK)](guides/nltk.md)  
+[Pandas](guides/pandas.md)  
+[Scikit-Learn](guides/sklearn.md)  
+[Tweepy](guides/tweepy.md)  
 
 -----
 
