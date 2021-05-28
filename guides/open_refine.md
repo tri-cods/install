@@ -12,15 +12,15 @@ It allows users to bring in messy data from wide range of formats easily without
 
 **For this workshop we will be using OpenRefine 3.4.1**
 
-If you already have OpenRefine installed in your computer but have an older version, OpenRefine recommends that you backup your working directory (i.e. the folder in your computer where OpenRefine saves projects). If you need to backup your working directory, [follow these instructions](#backing-up)
+If you already have OpenRefine installed in your computer but have an older version, OpenRefine recommends that you backup your working directory (i.e. the folder in your computer where OpenRefine saves projects). If you need to backup your working directory, [follow these instructions](#backing-up).
 
 ### Windows
 
 * [click on **Windows Kit** link under OpenRefine 3.4.1](http://openrefine.org/download.html) then download 
 * unzip the downloaded `.zip` file then double-click on `openrefine.exe`. (If you’re having issues with the above, try double-clicking on `refine.bat` instead.)
-* OpenRefine will open on your web browser
+* OpenRefine will open in your web browser
 
-If you are unable to open the program without crashing, see the instructions below.
+If you are unable to open the program without crashing, [see the instructions below](#user-content-possible-issues-when-installing-openrefine).
 
 
 ### OSX
@@ -30,7 +30,7 @@ If you are unable to open the program without crashing, see the instructions bel
 * drag icon into Applications folder
 * double click on the icon
 * first time you run the program you should receive a dialogue box asking you if you are sure you would like to open it. Here you should click `Open`. 
-* OpenRefine will open on your web browser
+* OpenRefine will open in your web browser
 
 ### Backing-up
 
@@ -39,13 +39,15 @@ It is possible to backup each project individually by opening the project in Ope
 You can also back-up your directory by making a copy of it manually. You can get to this directory from the OpenRefine start page by clicking on the Browse workspace directory link at 
 the bottom left of the page.
 
-FYI
+#### FYI
 
-1. If using a Mac:
+**OSX**
 
-* The working directory is usually located in `~/Library/Application Support/OpenRefine`
+The working directory is usually located in `~/Library/Application Support/OpenRefine`
 
-2. If using Windows, depending on the version you have, the working directory could be located in one of these directories:
+**Windows**
+
+If using Windows, depending on the version you have, the working directory could be located in one of these directories:
 
 * `C:\Documents and Settings\(user id)\Local Settings\Application Data\OpenRefine`
 * `C:\Users\(user id)\AppData\Roaming\OpenRefine`
