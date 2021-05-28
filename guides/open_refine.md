@@ -1,37 +1,36 @@
-# Open Refine
+# OpenRefine
 
-## Requirements
-1. Java JRE installed
+## What it is
 
-* OpenRefine requires you to have a working Java JRE, otherwise you willnot be able to start OpenRefine.(the commmand window will just open and close quickly after you double click on OpenRefine.exe)
+OpenRefine is cross-platform, open-source software that allows users to clean and transform messy data. Originally supported by Google, it is now maintained by a large user community. OpenRefine is by no means the only or best way to work with data; however, it strikes an unusual balance between working in proprietary tools for a broad audience (like Microsoft Excel or GoogleSheets) on the one hand, and on the other, straight programming for data science (R Studio, Python Notebooks).
 
-2. Supported OS (Windows, OSX, Linux)
+## Why we use it
 
+It allows users to bring in messy data from wide range of formats easily without requiring preliminary transformation. It allows for granular auditing of any changes. It combines (relatively) easy to use suite of features with the ability to write advanced custom scripts when needed. It also allows users to parse with lots and lots of data. Microsoft Excel, for example, has a maximum of 1,048,576 rows by 16,384 columns.
 
 ## Installation
 
-**For this workshop we will be using OpenRefine 3.1 and NOT! OpenRefine 3.2 beta**
+**For this workshop we will be using OpenRefine 3.4.1**
 
-If you already have OpenRefine installed in your computer but have an older version, OpenRefine recomends that you backup your working directory (i.e. the folder in your computer where OpenRefine saves projects). If you need to backup your working directory, go [here](#backing-up)
+If you already have OpenRefine installed in your computer but have an older version, OpenRefine recommends that you backup your working directory (i.e. the folder in your computer where OpenRefine saves projects). If you need to backup your working directory, [follow these instructions](#backing-up)
 
-To install OpenRefine go [here](http://openrefine.org/download.html)
+### Windows
+
+* [click on **Windows Kit** link under OpenRefine 3.4.1](http://openrefine.org/download.html) then download 
+* unzip the downloaded `.zip` file then double-click on `openrefine.exe`. (If you’re having issues with the above, try double-clicking on `refine.bat` instead.)
+* OpenRefine will open on your web browser
+
+If you are unable to open the program without crashing, see the instructions below.
 
 
+### OSX
 
-
-If using windows: 
-* click on **Windows Kit** link under OpenRefine 3.1 then download 
-* unzip and extract files then double-click on openrefine.exe. (If you’re having issues with the above, try double-clicking on refine.bat instead.)
-* OpenRefine will open on your web browswer 
-
-If using mac:
-* click on **Mac Kit** link under OpenRefine 3.1 then download
-* open the downloaded .dmg file.
+* [click on **Mac Kit** link under OpenRefine 3.4.1](http://openrefine.org/download.html) then download
+* open the downloaded `.dmg` file.
 * drag icon into Applications folder
-* double click on the icone
-
-
-For either operating system, the program might take some time to open
+* double click on the icon
+* first time you run the program you should receive a dialogue box asking you if you are sure you would like to open it. Here you should click `Open`. 
+* OpenRefine will open on your web browser
 
 ### Backing-up
 
@@ -57,7 +56,7 @@ FYI
 
 **OpenRefine does not start after clicking the .exe, it only opens and closes a window**
 
-Ensure that you have a Java JRE installed on your system. And have at least 1 GB of RAM available for it.
+For Windows users who are unable to open the program without crashing, you may need to install the [Windows Kit with embedded Java available from the OpenRefine Download page](https://openrefine.org/download.html). And have at least 1 GB of RAM available for it.
 
 
 

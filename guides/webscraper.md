@@ -1,6 +1,6 @@
 # Web Scraper
 
-## What it is?
+## What it is
 
 Web Scraper offers several pieces of software and services that help users extract content from websites to be used as data. Unlike most of our other tools, it is *not* [open source](https://en.wikipedia.org/wiki/Open_source) though we include it because we have found it to be incredibly useful in many situations. 
 
